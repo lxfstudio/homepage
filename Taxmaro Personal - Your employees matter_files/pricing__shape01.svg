@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="55px" height="58px" viewBox="0 0 55 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>pricing__shape01</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="home--subtil" transform="translate(-148.000000, -3418.000000)" fill="#F0F0F0">
+            <g id="pricing" transform="translate(136.000000, 3290.000000)">
+                <g id="shapes" transform="translate(0.000000, 105.000000)">
+                    <polygon id="pricing__shape01" transform="translate(37.717622, 47.717622) rotate(-30.000000) translate(-37.717622, -47.717622) " points="37.7176224 20.1064065 65.3288383 45.2808959 54.7822923 75.3288383 20.6529525 75.3288383 10.1064065 45.2808959"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
