@@ -1,0 +1,49 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.lxfdesign.com" resolutions="1x,2x" timestamp="1500648260297">
+  <folder name="css">
+    <file name="site_global.css" crc="4016081387"/>
+    <file name="master_a-master.css" crc="39718937" ref="index"/>
+    <file name="index.css" crc="4175956403" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="simfang.woff" crc="166959571"/>
+    <file name="simfang.eot" crc="3890113420"/>
+    <file name="simfang.svg" crc="132028117"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4216313831" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4177022356" ref="index"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="128250821" ref="index"/>
+    <file name="require.js" crc="3951022091" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="a-master-favicon.ico" crc="136042638" ref="index"/>
+    <file name="logo.svg" crc="325064019" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_poster_.png" crc="4071604195" ref="index"/>
+    <file name="logowhite.svg" crc="469500046" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logowhite_poster_.png" crc="316410040" ref="index"/>
+    <file name="微博.svg" crc="433994161" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="微博_poster_.png" crc="486435155" ref="index"/>
+    <file name="微信.svg" crc="4094470059" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="微信_poster_.png" crc="202330178" ref="index"/>
+    <file name="dribble.svg" crc="4161191557" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dribble_poster_.png" crc="292260951" ref="index"/>
+    <file name="keyi警告.svg" crc="429946476" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="keyi警告_poster_.png" crc="314634940" ref="index"/>
+  </folder>
+  <file name="index.html" crc="8786997" seo="true" mt="1500647999070" redirect="true"/>
+</manifest>
