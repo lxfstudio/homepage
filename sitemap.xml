@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.lxfdesign.com/index.html</loc>
-    <lastmod>2017-07-21</lastmod>
+    <lastmod>2017-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -22,6 +22,18 @@
     </image:image>
     <image:image>
       <image:loc>http://www.lxfdesign.com/images/keyi%E8%AD%A6%E5%91%8A.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/welcome%E5%8E%8B%E7%BC%A9.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/dot.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/%E6%88%91.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/%E6%88%91_2x.png</image:loc>
     </image:image>
   </url>
 </urlset>

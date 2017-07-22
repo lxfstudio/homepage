@@ -1,8 +1,9 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.lxfdesign.com" resolutions="1x,2x" timestamp="1500649102882">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.lxfdesign.com" resolutions="1x,2x" timestamp="1500737104496">
   <folder name="css">
-    <file name="site_global.css" crc="4016081387"/>
-    <file name="master_a-master.css" crc="4000303590" ref="index"/>
-    <file name="index.css" crc="469580881" ref="index"/>
+    <file name="site_global.css" crc="4015789237"/>
+    <file name="master_a-master.css" crc="138986485" ref="index"/>
+    <file name="index.css" crc="4025756490" ref="index"/>
+    <file name="iefonts_index.css" crc="252359800" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -12,13 +13,14 @@
     <file name="jquery.watch.js" crc="460461809" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="128250821" ref="index"/>
     <file name="require.js" crc="3951022091" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="a-master-favicon.ico" crc="136042638" ref="index"/>
-    <file name="logo.svg" crc="325064019" seo="true" ref="index">
+    <file name="a-master-favicon.ico" crc="345764078" ref="index"/>
+    <file name="logo.svg" crc="484856603" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo_poster_.png" crc="4071604195" ref="index"/>
+    <file name="logo_poster_.png" crc="4181403656" ref="index"/>
     <file name="u6947-4.png" crc="103822655" ref="index"/>
     <file name="u6947-4_2x.png" crc="4099399612" ref="index"/>
     <file name="u6951-4.png" crc="4020025292" ref="index"/>
@@ -31,10 +33,10 @@
     <file name="u6960-4_2x.png" crc="160787677" ref="index"/>
     <file name="u6963-4.png" crc="3823438885" ref="index"/>
     <file name="u6963-4_2x.png" crc="145578270" ref="index"/>
-    <file name="logowhite.svg" crc="469500046" seo="true" ref="index">
+    <file name="logowhite.svg" crc="497583979" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logowhite_poster_.png" crc="316410040" ref="index"/>
+    <file name="logowhite_poster_.png" crc="4257417501" ref="index"/>
     <file name="微博.svg" crc="433994161" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -51,6 +53,39 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="keyi警告_poster_.png" crc="314634940" ref="index"/>
+    <file name="welcome压缩.gif" crc="127945312" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_7322.jpg" crc="3953145380" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arrows-mn_arrow_left.png" crc="4126107877" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arrows-mn_arrow_left_2x.png" crc="4185585593" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arrows-mn_arrow_left white.png" crc="17866525" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arrows-mn_arrow_left white_2x.png" crc="30234032" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u6839-8.png" crc="90506994" ref="index"/>
+    <file name="u6839-8_2x.png" crc="4204425529" ref="index"/>
+    <file name="u6845-4.png" crc="3877765873" ref="index"/>
+    <file name="u6845-4_2x.png" crc="417997826" ref="index"/>
+    <file name="u6836-4.png" crc="4288605781" ref="index"/>
+    <file name="u6836-4_2x.png" crc="3961209647" ref="index"/>
+    <file name="dot.gif" crc="4249697081" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="我.png" crc="257719696" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="我_2x.png" crc="63537020" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4148287923" seo="true" mt="1500649007274" redirect="true"/>
+  <file name="index.html" crc="427283637" seo="true" mt="1500736869509" redirect="true"/>
 </manifest>
