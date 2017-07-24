@@ -1,9 +1,9 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.lxfdesign.com" resolutions="1x,2x" timestamp="1500737104496">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.lxfdesign.com" resolutions="1x,2x" timestamp="1500878047133">
   <folder name="css">
-    <file name="site_global.css" crc="4015789237"/>
-    <file name="master_a-master.css" crc="138986485" ref="index"/>
-    <file name="index.css" crc="4025756490" ref="index"/>
-    <file name="iefonts_index.css" crc="252359800" ref="index"/>
+    <file name="site_global.css" crc="3873107018"/>
+    <file name="master_a-master.css" crc="502416083" ref="index"/>
+    <file name="index.css" crc="429308427" ref="index"/>
+    <file name="iefonts_index.css" crc="3975898200" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -14,6 +14,12 @@
     <file name="jquery.scrolleffects.js" crc="128250821" ref="index"/>
     <file name="require.js" crc="3951022091" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index"/>
+    <file name="webpro.js" crc="4143865194" ref="index"/>
+    <file name="musewpdisclosure.js" crc="4050941203" ref="index"/>
+    <file name="form_check.php" crc="154010282" ref="index"/>
+    <file name="form_throttle.php" crc="266437015" ref="index"/>
+    <file name="form_process.php" crc="512629711" ref="index"/>
+    <file name="form-u9003.php" crc="4206737300" ref="index"/>
   </folder>
   <folder name="images">
     <file name="a-master-favicon.ico" crc="345764078" ref="index"/>
@@ -21,8 +27,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="logo_poster_.png" crc="4181403656" ref="index"/>
-    <file name="u6947-4.png" crc="103822655" ref="index"/>
-    <file name="u6947-4_2x.png" crc="4099399612" ref="index"/>
     <file name="u6951-4.png" crc="4020025292" ref="index"/>
     <file name="u6951-4_2x.png" crc="135518130" ref="index"/>
     <file name="u6954-4.png" crc="3926611704" ref="index"/>
@@ -36,7 +40,7 @@
     <file name="logowhite.svg" crc="497583979" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logowhite_poster_.png" crc="4257417501" ref="index"/>
+    <file name="logowhite_poster_.png" crc="286954294" ref="index"/>
     <file name="微博.svg" crc="433994161" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -86,6 +90,62 @@
     <file name="我_2x.png" crc="63537020" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u6947_states.png" crc="103822655" ref="index"/>
+    <file name="u6947_states_2x.png" crc="4099399612" ref="index"/>
+    <file name="u6947_states-r.png" crc="105752549" ref="index"/>
+    <file name="u6947_states-r_2x.png" crc="4199816808" ref="index"/>
+    <file name="u6947_states-a.png" crc="105752549" ref="index"/>
+    <file name="u6947_states-a_2x.png" crc="4199816808" ref="index"/>
+    <file name="东南大学.png" crc="379589447" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="向下.svg" crc="498142420" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="向下_poster_.png" crc="444233055" ref="index"/>
+    <file name="蒙纳什大学.png" crc="416028081" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ibm_logo.png" crc="401518050" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ibm_logo_2x.png" crc="508796477" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="北京设计周.png" crc="502017104" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="北京设计周_2x.png" crc="430049875" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu-fabrikas-hero.jpg" crc="345848107" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="timg.jpg" crc="3977894933" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u10211.png" crc="93614502" ref="index"/>
+    <file name="u10211_2x.png" crc="88237096" ref="index"/>
+    <file name="u10211-r.png" crc="3764461030" ref="index"/>
+    <file name="u10211-r_2x.png" crc="363720938" ref="index"/>
+    <file name="u10197.png" crc="4109070183" ref="index"/>
+    <file name="u10197_2x.png" crc="103634004" ref="index"/>
+    <file name="u10197-r.png" crc="3823153733" ref="index"/>
+    <file name="u10197-r_2x.png" crc="4161649544" ref="index"/>
+    <file name="u10182.png" crc="4060799471" ref="index"/>
+    <file name="u10182_2x.png" crc="401856497" ref="index"/>
+    <file name="u10182-r.png" crc="4251677159" ref="index"/>
+    <file name="u10182-r_2x.png" crc="90611509" ref="index"/>
+    <file name="u10204.png" crc="529404873" ref="index"/>
+    <file name="u10204_2x.png" crc="4207697534" ref="index"/>
+    <file name="u10204-r.png" crc="4018184507" ref="index"/>
+    <file name="u10204-r_2x.png" crc="205982520" ref="index"/>
+    <file name="u10232.png" crc="3791151270" ref="index"/>
+    <file name="u10232_2x.png" crc="138437745" ref="index"/>
+    <file name="u10232-r.png" crc="3986929026" ref="index"/>
+    <file name="u10232-r_2x.png" crc="173599557" ref="index"/>
   </folder>
-  <file name="index.html" crc="427283637" seo="true" mt="1500736869509" redirect="true"/>
+  <file name="index.html" crc="136514940" seo="true" mt="1500877990439" redirect="true"/>
 </manifest>

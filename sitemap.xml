@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.lxfdesign.com/index.html</loc>
-    <lastmod>2017-07-22</lastmod>
+    <lastmod>2017-07-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -34,6 +34,27 @@
     </image:image>
     <image:image>
       <image:loc>http://www.lxfdesign.com/images/%E6%88%91_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/%E4%B8%9C%E5%8D%97%E5%A4%A7%E5%AD%A6.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/%E5%90%91%E4%B8%8B.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/%E8%92%99%E7%BA%B3%E4%BB%80%E5%A4%A7%E5%AD%A6.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/ibm_logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/ibm_logo_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/%E5%8C%97%E4%BA%AC%E8%AE%BE%E8%AE%A1%E5%91%A8.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/%E5%8C%97%E4%BA%AC%E8%AE%BE%E8%AE%A1%E5%91%A8_2x.png</image:loc>
     </image:image>
   </url>
 </urlset>
