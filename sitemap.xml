@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.lxfdesign.com/index.html</loc>
-    <lastmod>2017-07-26</lastmod>
+    <lastmod>2017-07-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -92,7 +92,7 @@
   </url>
   <url>
     <loc>http://www.lxfdesign.com/ibm-cloud-automation-manager.html</loc>
-    <lastmod>2017-07-26</lastmod>
+    <lastmod>2017-07-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -176,7 +176,7 @@
   </url>
   <url>
     <loc>http://www.lxfdesign.com/ibm-cloud-automation-manager-hifi.html</loc>
-    <lastmod>2017-07-26</lastmod>
+    <lastmod>2017-07-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -205,6 +205,117 @@
     </image:image>
     <image:image>
       <image:loc>http://www.lxfdesign.com/images/%E6%BC%94%E7%A4%BA%E6%96%87%E7%A8%BF1-2@2x_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/%E5%9B%BE%E7%89%878.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/%E5%9B%BE%E7%89%878_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/get%20start2@2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/get%20start2@2x_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/1@2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/1@2x_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/3@2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/3@2x_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/4@2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/4@2x_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/6@2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/6@2x_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/7@2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/7@2x_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/8@2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/8@2x_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/13@2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/13@2x_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/%E5%9B%BE%E7%89%8711-crop-u12370.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/14@2x-crop-u12356.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/14@2x-crop-u12356_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/15@2x-crop-u12358.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/15@2x-crop-u12358_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/17@2x-crop-u12368.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/17@2x-crop-u12368_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/%E5%9B%BE%E7%89%8711268x270.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/%E5%9B%BE%E7%89%8711268x270_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/14@2x279x260.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/14@2x279x260_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/15@2x279x260.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/15@2x279x260_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/17@2x279x260.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/17@2x279x260_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/%E5%9B%BE%E7%89%8712.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/detail%20page2@2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/detail%20page2@2x_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/%E5%9B%BE%E7%89%8713.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

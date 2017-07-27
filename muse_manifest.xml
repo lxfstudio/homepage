@@ -1,15 +1,15 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.lxfdesign.com" resolutions="1x,2x" timestamp="1501082425148">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.lxfdesign.com" resolutions="1x,2x" timestamp="1501163716054">
   <folder name="css">
     <file name="site_global.css" crc="438348429"/>
-    <file name="master_a-master.css" crc="303324549" ref="index:ux-design:ibm-cloud-automation-manager-hifi:ibm-cloud-automation-manager"/>
-    <file name="index.css" crc="4038955032" ref="index"/>
+    <file name="master_a-master.css" crc="386864585" ref="index:ux-design:ibm-cloud-automation-manager-hifi:ibm-cloud-automation-manager"/>
+    <file name="index.css" crc="4288269153" ref="index"/>
     <file name="iefonts_index.css" crc="4159122872" ref="index"/>
     <file name="ux-design.css" crc="235227332" ref="ux-design"/>
     <file name="iefonts_ux-design.css" crc="3973881697" ref="ux-design"/>
-    <file name="ibm-cloud-automation-manager-hifi.css" crc="249092517" ref="ibm-cloud-automation-manager-hifi"/>
-    <file name="iefonts_ibm-cloud-automation-manager-hifi.css" crc="3947827575" ref="ibm-cloud-automation-manager-hifi"/>
-    <file name="ibm-cloud-automation-manager.css" crc="34484453" ref="ibm-cloud-automation-manager"/>
-    <file name="iefonts_ibm-cloud-automation-manager.css" crc="360238982" ref="ibm-cloud-automation-manager"/>
+    <file name="ibm-cloud-automation-manager-hifi.css" crc="3800347559" ref="ibm-cloud-automation-manager-hifi"/>
+    <file name="iefonts_ibm-cloud-automation-manager-hifi.css" crc="66751912" ref="ibm-cloud-automation-manager-hifi"/>
+    <file name="ibm-cloud-automation-manager.css" crc="4016487853" ref="ibm-cloud-automation-manager"/>
+    <file name="iefonts_ibm-cloud-automation-manager.css" crc="4263912770" ref="ibm-cloud-automation-manager"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:ux-design:ibm-cloud-automation-manager:ibm-cloud-automation-manager-hifi"/>
@@ -19,24 +19,24 @@
     <file name="jquery.watch.js" crc="460461809" ref="index:ux-design:ibm-cloud-automation-manager:ibm-cloud-automation-manager-hifi"/>
     <file name="jquery.scrolleffects.js" crc="128250821" ref="index:ux-design:ibm-cloud-automation-manager:ibm-cloud-automation-manager-hifi"/>
     <file name="require.js" crc="3951022091" ref="index:ux-design:ibm-cloud-automation-manager:ibm-cloud-automation-manager-hifi"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index:ux-design:ibm-cloud-automation-manager"/>
-    <file name="webpro.js" crc="4143865194" ref="index:ux-design"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index:ux-design:ibm-cloud-automation-manager:ibm-cloud-automation-manager-hifi"/>
+    <file name="webpro.js" crc="4143865194" ref="index:ux-design:ibm-cloud-automation-manager-hifi"/>
     <file name="musewpdisclosure.js" crc="4050941203" ref="index"/>
     <file name="form_check.php" crc="154010282" ref="index"/>
     <file name="form_throttle.php" crc="266437015" ref="index"/>
     <file name="form_process.php" crc="512629711" ref="index"/>
     <file name="form-u9003.php" crc="427188049" ref="index"/>
-    <file name="musewpslideshow.js" crc="3781122836" ref="ux-design"/>
-    <file name="jquery.museoverlay.js" crc="4030747646" ref="ux-design"/>
-    <file name="touchswipe.js" crc="4200445185" ref="ux-design"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="ux-design:ibm-cloud-automation-manager-hifi"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="ux-design:ibm-cloud-automation-manager-hifi"/>
+    <file name="touchswipe.js" crc="4200445185" ref="ux-design:ibm-cloud-automation-manager-hifi"/>
   </folder>
   <folder name="images">
     <file name="a-master-favicon.ico" crc="345764078" ref="index"/>
     <file name="logo.svg" crc="484856603" seo="true" ref="index:ux-design:ibm-cloud-automation-manager:ibm-cloud-automation-manager-hifi">
       <caption webpage="index" alt=""/>
       <caption webpage="ux-design" alt=""/>
-      <caption webpage="ibm-cloud-automation-manager" alt=""/>
       <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+      <caption webpage="ibm-cloud-automation-manager" alt=""/>
     </file>
     <file name="logo_poster_.png" crc="4181403656" ref="index"/>
     <file name="u6954-4.png" crc="3926611704" ref="index:ux-design:ibm-cloud-automation-manager:ibm-cloud-automation-manager-hifi"/>
@@ -50,36 +50,36 @@
     <file name="logowhite.svg" crc="497583979" seo="true" ref="index:ux-design:ibm-cloud-automation-manager:ibm-cloud-automation-manager-hifi">
       <caption webpage="index" alt=""/>
       <caption webpage="ux-design" alt=""/>
-      <caption webpage="ibm-cloud-automation-manager" alt=""/>
       <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+      <caption webpage="ibm-cloud-automation-manager" alt=""/>
     </file>
     <file name="logowhite_poster_.png" crc="286954294" ref="index"/>
     <file name="微博.svg" crc="433994161" seo="true" ref="index:ux-design:ibm-cloud-automation-manager:ibm-cloud-automation-manager-hifi">
       <caption webpage="index" alt=""/>
       <caption webpage="ux-design" alt=""/>
-      <caption webpage="ibm-cloud-automation-manager" alt=""/>
       <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+      <caption webpage="ibm-cloud-automation-manager" alt=""/>
     </file>
     <file name="微博_poster_.png" crc="486435155" ref="index"/>
     <file name="微信.svg" crc="4094470059" seo="true" ref="index:ux-design:ibm-cloud-automation-manager:ibm-cloud-automation-manager-hifi">
       <caption webpage="index" alt=""/>
       <caption webpage="ux-design" alt=""/>
-      <caption webpage="ibm-cloud-automation-manager" alt=""/>
       <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+      <caption webpage="ibm-cloud-automation-manager" alt=""/>
     </file>
     <file name="微信_poster_.png" crc="202330178" ref="index"/>
     <file name="dribble.svg" crc="4161191557" seo="true" ref="index:ux-design:ibm-cloud-automation-manager:ibm-cloud-automation-manager-hifi">
       <caption webpage="index" alt=""/>
       <caption webpage="ux-design" alt=""/>
-      <caption webpage="ibm-cloud-automation-manager" alt=""/>
       <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+      <caption webpage="ibm-cloud-automation-manager" alt=""/>
     </file>
     <file name="dribble_poster_.png" crc="292260951" ref="index"/>
     <file name="keyi警告.svg" crc="429946476" seo="true" ref="index:ux-design:ibm-cloud-automation-manager:ibm-cloud-automation-manager-hifi">
       <caption webpage="index" alt=""/>
       <caption webpage="ux-design" alt=""/>
-      <caption webpage="ibm-cloud-automation-manager" alt=""/>
       <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+      <caption webpage="ibm-cloud-automation-manager" alt=""/>
     </file>
     <file name="keyi警告_poster_.png" crc="314634940" ref="index"/>
     <file name="welcome压缩.gif" crc="127945312" seo="true" ref="index">
@@ -109,8 +109,8 @@
     <file name="dot.gif" crc="4249697081" seo="true" ref="index:ux-design:ibm-cloud-automation-manager:ibm-cloud-automation-manager-hifi">
       <caption webpage="index" alt=""/>
       <caption webpage="ux-design" alt=""/>
-      <caption webpage="ibm-cloud-automation-manager" alt=""/>
       <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+      <caption webpage="ibm-cloud-automation-manager" alt=""/>
     </file>
     <file name="我.png" crc="257719696" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -267,17 +267,211 @@
       <caption webpage="ibm-cloud-automation-manager" alt=""/>
       <caption webpage="ibm-cloud-automation-manager" alt=""/>
     </file>
-    <file name="展开-u11493.png" crc="3918661600" ref="ibm-cloud-automation-manager"/>
-    <file name="展开-u11493_2x.png" crc="264129850" ref="ibm-cloud-automation-manager"/>
     <file name="演示文稿1-2@2x.png" crc="3960142957" seo="true" ref="ibm-cloud-automation-manager-hifi">
       <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
     </file>
     <file name="演示文稿1-2@2x_2x.png" crc="467927651" seo="true" ref="ibm-cloud-automation-manager-hifi">
       <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
     </file>
+    <file name="u11493.png" crc="3918661600" ref="ibm-cloud-automation-manager"/>
+    <file name="u11493_2x.png" crc="264129850" ref="ibm-cloud-automation-manager"/>
+    <file name="u11493-r.png" crc="4193892017" ref="ibm-cloud-automation-manager"/>
+    <file name="u11493-r_2x.png" crc="279264518" ref="ibm-cloud-automation-manager"/>
+    <file name="图片8.png" crc="4081028436" seo="true" ref="ibm-cloud-automation-manager-hifi">
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+    </file>
+    <file name="图片8_2x.png" crc="4158936890" seo="true" ref="ibm-cloud-automation-manager-hifi">
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+    </file>
+    <file name="wireframe.png" crc="17837492" ref="ibm-cloud-automation-manager-hifi">
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+    </file>
+    <file name="wireframe_2x.png" crc="298443881" ref="ibm-cloud-automation-manager-hifi">
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+    </file>
+    <file name="get start2@2x.jpg" crc="371242024" seo="true" ref="ibm-cloud-automation-manager-hifi">
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+    </file>
+    <file name="get start2@2x_2x.jpg" crc="459524554" seo="true" ref="ibm-cloud-automation-manager-hifi">
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+    </file>
+    <file name="u11753.png" crc="530919289" ref="ibm-cloud-automation-manager-hifi"/>
+    <file name="u11753_2x.png" crc="4233097586" ref="ibm-cloud-automation-manager-hifi"/>
+    <file name="u11753-r.png" crc="59457843" ref="ibm-cloud-automation-manager-hifi"/>
+    <file name="u11753-r_2x.png" crc="3898645727" ref="ibm-cloud-automation-manager-hifi"/>
+    <file name="1@2x.jpg" crc="58957249" seo="true" ref="ibm-cloud-automation-manager-hifi">
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+    </file>
+    <file name="1@2x_2x.jpg" crc="4140771478" seo="true" ref="ibm-cloud-automation-manager-hifi">
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+    </file>
+    <file name="u11806.png" crc="530919289" ref="ibm-cloud-automation-manager-hifi"/>
+    <file name="u11806_2x.png" crc="4233097586" ref="ibm-cloud-automation-manager-hifi"/>
+    <file name="u11806-r.png" crc="59457843" ref="ibm-cloud-automation-manager-hifi"/>
+    <file name="u11806-r_2x.png" crc="3898645727" ref="ibm-cloud-automation-manager-hifi"/>
+    <file name="3@2x.jpg" crc="4012340033" seo="true" ref="ibm-cloud-automation-manager-hifi">
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+    </file>
+    <file name="3@2x_2x.jpg" crc="4204639304" seo="true" ref="ibm-cloud-automation-manager-hifi">
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+    </file>
+    <file name="u11838.png" crc="530919289" ref="ibm-cloud-automation-manager-hifi"/>
+    <file name="u11838_2x.png" crc="4233097586" ref="ibm-cloud-automation-manager-hifi"/>
+    <file name="u11838-r.png" crc="59457843" ref="ibm-cloud-automation-manager-hifi"/>
+    <file name="u11838-r_2x.png" crc="3898645727" ref="ibm-cloud-automation-manager-hifi"/>
+    <file name="4@2x.jpg" crc="4019418578" seo="true" ref="ibm-cloud-automation-manager-hifi">
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+    </file>
+    <file name="4@2x_2x.jpg" crc="293433912" seo="true" ref="ibm-cloud-automation-manager-hifi">
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+    </file>
+    <file name="u11908.png" crc="530919289" ref="ibm-cloud-automation-manager-hifi"/>
+    <file name="u11908_2x.png" crc="4233097586" ref="ibm-cloud-automation-manager-hifi"/>
+    <file name="u11908-r.png" crc="59457843" ref="ibm-cloud-automation-manager-hifi"/>
+    <file name="u11908-r_2x.png" crc="3898645727" ref="ibm-cloud-automation-manager-hifi"/>
+    <file name="6@2x.jpg" crc="520626953" seo="true" ref="ibm-cloud-automation-manager-hifi">
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+    </file>
+    <file name="6@2x_2x.jpg" crc="313285683" seo="true" ref="ibm-cloud-automation-manager-hifi">
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+    </file>
+    <file name="u11937.png" crc="530919289" ref="ibm-cloud-automation-manager-hifi"/>
+    <file name="u11937_2x.png" crc="4233097586" ref="ibm-cloud-automation-manager-hifi"/>
+    <file name="u11937-r.png" crc="59457843" ref="ibm-cloud-automation-manager-hifi"/>
+    <file name="u11937-r_2x.png" crc="3898645727" ref="ibm-cloud-automation-manager-hifi"/>
+    <file name="7@2x.jpg" crc="13315265" seo="true" ref="ibm-cloud-automation-manager-hifi">
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+    </file>
+    <file name="7@2x_2x.jpg" crc="33780709" seo="true" ref="ibm-cloud-automation-manager-hifi">
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+    </file>
+    <file name="u11973.png" crc="530919289" ref="ibm-cloud-automation-manager-hifi"/>
+    <file name="u11973_2x.png" crc="4233097586" ref="ibm-cloud-automation-manager-hifi"/>
+    <file name="u11973-r.png" crc="59457843" ref="ibm-cloud-automation-manager-hifi"/>
+    <file name="u11973-r_2x.png" crc="3898645727" ref="ibm-cloud-automation-manager-hifi"/>
+    <file name="8@2x.jpg" crc="323812979" seo="true" ref="ibm-cloud-automation-manager-hifi">
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+    </file>
+    <file name="8@2x_2x.jpg" crc="3898274369" seo="true" ref="ibm-cloud-automation-manager-hifi">
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+    </file>
+    <file name="u12008.png" crc="530919289" ref="ibm-cloud-automation-manager-hifi"/>
+    <file name="u12008_2x.png" crc="4233097586" ref="ibm-cloud-automation-manager-hifi"/>
+    <file name="u12008-r.png" crc="59457843" ref="ibm-cloud-automation-manager-hifi"/>
+    <file name="u12008-r_2x.png" crc="3898645727" ref="ibm-cloud-automation-manager-hifi"/>
+    <file name="9@2x.jpg" crc="4169751172" ref="ibm-cloud-automation-manager-hifi">
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+    </file>
+    <file name="9@2x_2x.jpg" crc="4140996833" ref="ibm-cloud-automation-manager-hifi">
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+    </file>
+    <file name="10@2x.jpg" crc="33070828" ref="ibm-cloud-automation-manager-hifi">
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+    </file>
+    <file name="10@2x_2x.jpg" crc="3866500923" ref="ibm-cloud-automation-manager-hifi">
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+    </file>
+    <file name="u12190.png" crc="530919289" ref="ibm-cloud-automation-manager-hifi"/>
+    <file name="u12190_2x.png" crc="4233097586" ref="ibm-cloud-automation-manager-hifi"/>
+    <file name="u12190-r.png" crc="59457843" ref="ibm-cloud-automation-manager-hifi"/>
+    <file name="u12190-r_2x.png" crc="3898645727" ref="ibm-cloud-automation-manager-hifi"/>
+    <file name="13@2x.jpg" crc="3799321153" seo="true" ref="ibm-cloud-automation-manager-hifi">
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+    </file>
+    <file name="13@2x_2x.jpg" crc="3838229113" seo="true" ref="ibm-cloud-automation-manager-hifi">
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+    </file>
+    <file name="u12241.png" crc="530919289" ref="ibm-cloud-automation-manager-hifi"/>
+    <file name="u12241_2x.png" crc="4233097586" ref="ibm-cloud-automation-manager-hifi"/>
+    <file name="u12241-r.png" crc="59457843" ref="ibm-cloud-automation-manager-hifi"/>
+    <file name="u12241-r_2x.png" crc="3898645727" ref="ibm-cloud-automation-manager-hifi"/>
+    <file name="图片11-crop-u12370.jpg" crc="529779875" seo="true" ref="ibm-cloud-automation-manager-hifi">
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+    </file>
+    <file name="14@2x-crop-u12356.jpg" crc="3892952845" seo="true" ref="ibm-cloud-automation-manager-hifi">
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+    </file>
+    <file name="14@2x-crop-u12356_2x.jpg" crc="4142407837" seo="true" ref="ibm-cloud-automation-manager-hifi">
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+    </file>
+    <file name="15@2x-crop-u12358.jpg" crc="3774529859" seo="true" ref="ibm-cloud-automation-manager-hifi">
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+    </file>
+    <file name="15@2x-crop-u12358_2x.jpg" crc="4066855749" seo="true" ref="ibm-cloud-automation-manager-hifi">
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+    </file>
+    <file name="17@2x-crop-u12368.jpg" crc="4154658794" seo="true" ref="ibm-cloud-automation-manager-hifi">
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+    </file>
+    <file name="17@2x-crop-u12368_2x.jpg" crc="4256483874" seo="true" ref="ibm-cloud-automation-manager-hifi">
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+    </file>
+    <file name="图片11268x270.jpg" crc="412253912" seo="true" ref="ibm-cloud-automation-manager-hifi">
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+    </file>
+    <file name="图片11268x270_2x.jpg" crc="26372355" seo="true" ref="ibm-cloud-automation-manager-hifi">
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+    </file>
+    <file name="14@2x279x260.jpg" crc="3852976200" seo="true" ref="ibm-cloud-automation-manager-hifi">
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+    </file>
+    <file name="14@2x279x260_2x.jpg" crc="95275329" seo="true" ref="ibm-cloud-automation-manager-hifi">
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+    </file>
+    <file name="15@2x279x260.jpg" crc="4081134264" seo="true" ref="ibm-cloud-automation-manager-hifi">
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+    </file>
+    <file name="15@2x279x260_2x.jpg" crc="4006162198" seo="true" ref="ibm-cloud-automation-manager-hifi">
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+    </file>
+    <file name="17@2x279x260.jpg" crc="354677957" seo="true" ref="ibm-cloud-automation-manager-hifi">
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+    </file>
+    <file name="17@2x279x260_2x.jpg" crc="427369556" seo="true" ref="ibm-cloud-automation-manager-hifi">
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+    </file>
+    <file name="arrows-mn_arrow_left2.png" crc="4126107877" ref="ibm-cloud-automation-manager-hifi">
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+    </file>
+    <file name="arrows-mn_arrow_left_2x2.png" crc="4185585593" ref="ibm-cloud-automation-manager-hifi">
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+    </file>
+    <file name="arrows-mn_arrow_right.png" crc="4062137678" ref="ibm-cloud-automation-manager-hifi">
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+    </file>
+    <file name="arrows-mn_arrow_right_2x.png" crc="3871217447" ref="ibm-cloud-automation-manager-hifi">
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+    </file>
+    <file name="arrows-mn_close.png" crc="206776778" ref="ibm-cloud-automation-manager-hifi">
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+    </file>
+    <file name="arrows-mn_close_2x.png" crc="236761104" ref="ibm-cloud-automation-manager-hifi">
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="ibm-cloud-automation-manager-hifi"/>
+    <file name="图片12.jpg" crc="120428006" seo="true" ref="ibm-cloud-automation-manager-hifi">
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+    </file>
+    <file name="u12798.png" crc="530919289" ref="ibm-cloud-automation-manager-hifi"/>
+    <file name="u12798_2x.png" crc="4233097586" ref="ibm-cloud-automation-manager-hifi"/>
+    <file name="u12798-r.png" crc="59457843" ref="ibm-cloud-automation-manager-hifi"/>
+    <file name="u12798-r_2x.png" crc="3898645727" ref="ibm-cloud-automation-manager-hifi"/>
+    <file name="detail page2@2x.jpg" crc="472458976" seo="true" ref="ibm-cloud-automation-manager-hifi">
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+    </file>
+    <file name="detail page2@2x_2x.jpg" crc="4013319782" seo="true" ref="ibm-cloud-automation-manager-hifi">
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+    </file>
+    <file name="u12805.png" crc="530919289" ref="ibm-cloud-automation-manager-hifi"/>
+    <file name="u12805_2x.png" crc="4233097586" ref="ibm-cloud-automation-manager-hifi"/>
+    <file name="u12805-r.png" crc="59457843" ref="ibm-cloud-automation-manager-hifi"/>
+    <file name="u12805-r_2x.png" crc="3898645727" ref="ibm-cloud-automation-manager-hifi"/>
+    <file name="图片13.jpg" crc="186346601" seo="true" ref="ibm-cloud-automation-manager-hifi">
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4124575817" seo="true" mt="1501059135253" redirect="true"/>
+  <file name="index.html" crc="4097844189" seo="true" mt="1501163370435" redirect="true"/>
   <file name="ux-design.html" crc="429789141" seo="true" mt="1501082244644" redirect="true"/>
-  <file name="ibm-cloud-automation-manager.html" crc="4215839131" seo="true" mt="1501081564334" redirect="true"/>
-  <file name="ibm-cloud-automation-manager-hifi.html" crc="4174226434" seo="true" mt="1501081478558" redirect="true"/>
+  <file name="ibm-cloud-automation-manager.html" crc="223043368" seo="true" mt="1501163417683" redirect="true"/>
+  <file name="ibm-cloud-automation-manager-hifi.html" crc="502977824" seo="true" mt="1501163426888" redirect="true"/>
 </manifest>

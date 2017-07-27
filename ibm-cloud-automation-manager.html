@@ -17,24 +17,619 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>IBM Cloud Automation Manager</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=438348429"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=303324549"/>
-  <link rel="stylesheet" type="text/css" href="css/ibm-cloud-automation-manager.css?crc=34484453" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=386864585"/>
+  <link rel="stylesheet" type="text/css" href="css/ibm-cloud-automation-manager.css?crc=4016487853" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
-  <link rel="stylesheet" type="text/css" href="css/iefonts_ibm-cloud-automation-manager.css?crc=360238982"/>
+  <link rel="stylesheet" type="text/css" href="css/iefonts_ibm-cloud-automation-manager.css?crc=4263912770"/>
   <![endif]-->
   <!-- Other scripts -->
   <script type="text/javascript">
    var __adobewebfontsappname__ = "muse";
 </script>
   <!-- JS includes -->
-  <script src="https://webfonts.creativecloud.com/muli:n3,n4:default;quicksand:n4,n7:default;open-sans:n3,n8,n7,n4:default.js" type="text/javascript" async></script>
-   </head>
+  <script src="https://webfonts.creativecloud.com/open-sans:n3,n8,n7,n4:default;muli:n3,n4:default;quicksand:n4,n7:default.js" type="text/javascript" async></script>
+    <!--HTML Widget code-->
+  
+<style>
+
+
+/* css for loader1 */
+
+#u13355 .loader1,
+.loader1:before,
+.loader1:after {
+  background: #000000;
+  -webkit-animation: load1 1s infinite ease-in-out;
+  animation: load1 1s infinite ease-in-out;
+  width: 1em;
+  height: 4em;
+}
+#u13355 .loader1:before,
+.loader1:after {
+  position: absolute;
+  top: 0;
+  content: '';
+}
+#u13355 .loader1:before {
+  left: -1.5em;
+}
+#u13355 .loader1 {
+  text-indent: -9999em;
+  margin: 8em auto;
+  position: relative;
+  font-size: 10px;
+  -webkit-animation-delay: -0.16s;
+  animation-delay: -0.16s;
+}
+#u13355 .loader1:after {
+  left: 1.5em;
+  -webkit-animation-delay: -0.32s;
+  animation-delay: -0.32s;
+}
+@-webkit-keyframes load1 {
+  0%,
+  80%,
+  100% {
+    box-shadow: 0 0 #000000;
+    height: 4em;
+  }
+  40% {
+    box-shadow: 0 -2em #000000;
+    height: 5em;
+  }
+}
+@keyframes load1 {
+  0%,
+  80%,
+  100% {
+    box-shadow: 0 0 #000000;
+    height: 4em;
+  }
+  40% {
+    box-shadow: 0 -2em #000000;
+    height: 5em;
+  }
+}
+
+/* end of loader1 css */
+
+/* css for loader 2 */
+
+
+#u13355 .loader2 {
+  margin: 4em auto;
+  font-size: 10px;
+  width: 1em;
+  height: 1em;
+  border-radius: 50%;
+  position: relative;
+  text-indent: -9999em;
+  -webkit-animation: load5 1.1s infinite ease;
+  animation: load5 1.1s infinite ease;
+}
+@-webkit-keyframes load5 {
+  0%,
+  100% {
+    box-shadow: 0em -2.6em 0em 0em #000000, 1.8em -1.8em 0 0em rgba(255,255,255, 0.2), 2.5em 0em 0 0em rgba(255,255,255, 0.2), 1.75em 1.75em 0 0em rgba(255,255,255, 0.2), 0em 2.5em 0 0em rgba(255,255,255, 0.2), -1.8em 1.8em 0 0em rgba(255,255,255, 0.2), -2.6em 0em 0 0em rgba(255,255,255, 0.5), -1.8em -1.8em 0 0em rgba(255,255,255, 0.7);
+  }
+  12.5% {
+    box-shadow: 0em -2.6em 0em 0em rgba(255,255,255, 0.7), 1.8em -1.8em 0 0em #000000, 2.5em 0em 0 0em rgba(255,255,255, 0.2), 1.75em 1.75em 0 0em rgba(255,255,255, 0.2), 0em 2.5em 0 0em rgba(255,255,255, 0.2), -1.8em 1.8em 0 0em rgba(255,255,255, 0.2), -2.6em 0em 0 0em rgba(255,255,255, 0.2), -1.8em -1.8em 0 0em rgba(255,255,255, 0.5);
+  }
+  25% {
+    box-shadow: 0em -2.6em 0em 0em rgba(255,255,255, 0.5), 1.8em -1.8em 0 0em rgba(255,255,255, 0.7), 2.5em 0em 0 0em #000000, 1.75em 1.75em 0 0em rgba(255,255,255, 0.2), 0em 2.5em 0 0em rgba(255,255,255, 0.2), -1.8em 1.8em 0 0em rgba(255,255,255, 0.2), -2.6em 0em 0 0em rgba(255,255,255, 0.2), -1.8em -1.8em 0 0em rgba(255,255,255, 0.2);
+  }
+  37.5% {
+    box-shadow: 0em -2.6em 0em 0em rgba(255,255,255, 0.2), 1.8em -1.8em 0 0em rgba(255,255,255, 0.5), 2.5em 0em 0 0em rgba(255,255,255, 0.7), 1.75em 1.75em 0 0em rgba(255,255,255, 0.2), 0em 2.5em 0 0em rgba(255,255,255, 0.2), -1.8em 1.8em 0 0em rgba(255,255,255, 0.2), -2.6em 0em 0 0em rgba(255,255,255, 0.2), -1.8em -1.8em 0 0em rgba(255,255,255, 0.2);
+  }
+  50% {
+    box-shadow: 0em -2.6em 0em 0em rgba(255,255,255, 0.2), 1.8em -1.8em 0 0em rgba(255,255,255, 0.2), 2.5em 0em 0 0em rgba(255,255,255, 0.5), 1.75em 1.75em 0 0em rgba(255,255,255, 0.7), 0em 2.5em 0 0em #000000, -1.8em 1.8em 0 0em rgba(255,255,255, 0.2), -2.6em 0em 0 0em rgba(255,255,255, 0.2), -1.8em -1.8em 0 0em rgba(255,255,255, 0.2);
+  }
+  62.5% {
+    box-shadow: 0em -2.6em 0em 0em rgba(255,255,255, 0.2), 1.8em -1.8em 0 0em rgba(255,255,255, 0.2), 2.5em 0em 0 0em rgba(255,255,255, 0.2), 1.75em 1.75em 0 0em rgba(255,255,255, 0.5), 0em 2.5em 0 0em rgba(255,255,255, 0.7), -1.8em 1.8em 0 0em #000000, -2.6em 0em 0 0em rgba(255,255,255, 0.2), -1.8em -1.8em 0 0em rgba(255,255,255, 0.2);
+  }
+  75% {
+    box-shadow: 0em -2.6em 0em 0em rgba(255,255,255, 0.2), 1.8em -1.8em 0 0em rgba(255,255,255, 0.2), 2.5em 0em 0 0em rgba(255,255,255, 0.2), 1.75em 1.75em 0 0em rgba(255,255,255, 0.2), 0em 2.5em 0 0em rgba(255,255,255, 0.5), -1.8em 1.8em 0 0em rgba(255,255,255, 0.7), -2.6em 0em 0 0em #000000, -1.8em -1.8em 0 0em rgba(255,255,255, 0.2);
+  }
+  87.5% {
+    box-shadow: 0em -2.6em 0em 0em rgba(255,255,255, 0.2), 1.8em -1.8em 0 0em rgba(255,255,255, 0.2), 2.5em 0em 0 0em rgba(255,255,255, 0.2), 1.75em 1.75em 0 0em rgba(255,255,255, 0.2), 0em 2.5em 0 0em rgba(255,255,255, 0.2), -1.8em 1.8em 0 0em rgba(255,255,255, 0.5), -2.6em 0em 0 0em rgba(255,255,255, 0.7), -1.8em -1.8em 0 0em #000000;
+  }
+}
+@keyframes load5 {
+  0%,
+  100% {
+    box-shadow: 0em -2.6em 0em 0em #000000, 1.8em -1.8em 0 0em rgba(255,255,255, 0.2), 2.5em 0em 0 0em rgba(255,255,255, 0.2), 1.75em 1.75em 0 0em rgba(255,255,255, 0.2), 0em 2.5em 0 0em rgba(255,255,255, 0.2), -1.8em 1.8em 0 0em rgba(255,255,255, 0.2), -2.6em 0em 0 0em rgba(255,255,255, 0.5), -1.8em -1.8em 0 0em rgba(255,255,255, 0.7);
+  }
+  12.5% {
+    box-shadow: 0em -2.6em 0em 0em rgba(255,255,255, 0.7), 1.8em -1.8em 0 0em #000000, 2.5em 0em 0 0em rgba(255,255,255, 0.2), 1.75em 1.75em 0 0em rgba(255,255,255, 0.2), 0em 2.5em 0 0em rgba(255,255,255, 0.2), -1.8em 1.8em 0 0em rgba(255,255,255, 0.2), -2.6em 0em 0 0em rgba(255,255,255, 0.2), -1.8em -1.8em 0 0em rgba(255,255,255, 0.5);
+  }
+  25% {
+    box-shadow: 0em -2.6em 0em 0em rgba(255,255,255, 0.5), 1.8em -1.8em 0 0em rgba(255,255,255, 0.7), 2.5em 0em 0 0em #000000, 1.75em 1.75em 0 0em rgba(255,255,255, 0.2), 0em 2.5em 0 0em rgba(255,255,255, 0.2), -1.8em 1.8em 0 0em rgba(255,255,255, 0.2), -2.6em 0em 0 0em rgba(255,255,255, 0.2), -1.8em -1.8em 0 0em rgba(255,255,255, 0.2);
+  }
+  37.5% {
+    box-shadow: 0em -2.6em 0em 0em rgba(255,255,255, 0.2), 1.8em -1.8em 0 0em rgba(255,255,255, 0.5), 2.5em 0em 0 0em rgba(255,255,255, 0.7), 1.75em 1.75em 0 0em rgba(255,255,255, 0.2), 0em 2.5em 0 0em rgba(255,255,255, 0.2), -1.8em 1.8em 0 0em rgba(255,255,255, 0.2), -2.6em 0em 0 0em rgba(255,255,255, 0.2), -1.8em -1.8em 0 0em rgba(255,255,255, 0.2);
+  }
+  50% {
+    box-shadow: 0em -2.6em 0em 0em rgba(255,255,255, 0.2), 1.8em -1.8em 0 0em rgba(255,255,255, 0.2), 2.5em 0em 0 0em rgba(255,255,255, 0.5), 1.75em 1.75em 0 0em rgba(255,255,255, 0.7), 0em 2.5em 0 0em #000000, -1.8em 1.8em 0 0em rgba(255,255,255, 0.2), -2.6em 0em 0 0em rgba(255,255,255, 0.2), -1.8em -1.8em 0 0em rgba(255,255,255, 0.2);
+  }
+  62.5% {
+    box-shadow: 0em -2.6em 0em 0em rgba(255,255,255, 0.2), 1.8em -1.8em 0 0em rgba(255,255,255, 0.2), 2.5em 0em 0 0em rgba(255,255,255, 0.2), 1.75em 1.75em 0 0em rgba(255,255,255, 0.5), 0em 2.5em 0 0em rgba(255,255,255, 0.7), -1.8em 1.8em 0 0em #000000, -2.6em 0em 0 0em rgba(255,255,255, 0.2), -1.8em -1.8em 0 0em rgba(255,255,255, 0.2);
+  }
+  75% {
+    box-shadow: 0em -2.6em 0em 0em rgba(255,255,255, 0.2), 1.8em -1.8em 0 0em rgba(255,255,255, 0.2), 2.5em 0em 0 0em rgba(255,255,255, 0.2), 1.75em 1.75em 0 0em rgba(255,255,255, 0.2), 0em 2.5em 0 0em rgba(255,255,255, 0.5), -1.8em 1.8em 0 0em rgba(255,255,255, 0.7), -2.6em 0em 0 0em #000000, -1.8em -1.8em 0 0em rgba(255,255,255, 0.2);
+  }
+  87.5% {
+    box-shadow: 0em -2.6em 0em 0em rgba(255,255,255, 0.2), 1.8em -1.8em 0 0em rgba(255,255,255, 0.2), 2.5em 0em 0 0em rgba(255,255,255, 0.2), 1.75em 1.75em 0 0em rgba(255,255,255, 0.2), 0em 2.5em 0 0em rgba(255,255,255, 0.2), -1.8em 1.8em 0 0em rgba(255,255,255, 0.5), -2.6em 0em 0 0em rgba(255,255,255, 0.7), -1.8em -1.8em 0 0em #000000;
+  }
+}
+
+
+/* end of loader2 css */
+
+/* css for loader 3 */
+
+
+#u13355 .loader3,
+.loader3:before,
+.loader3:after {
+  border-radius: 50%;
+}
+#u13355 .loader3:before,
+.loader3:after {
+  position: absolute;
+  content: '';
+}
+#u13355 .loader3:before {
+  width: 5.2em;
+  height: 10.2em;
+  background: #000000;
+  border-radius: 10.2em 0 0 10.2em;
+  top: -0.1em;
+  left: -0.1em;
+  -webkit-transform-origin: 5.2em 5.1em;
+  transform-origin: 5.2em 5.1em;
+  -webkit-animation: load2 2s infinite ease 1.5s;
+  animation: load2 2s infinite ease 1.5s;
+}
+#u13355 .loader3 {
+  font-size: 10px;
+  text-indent: -99999em;
+  margin: 5em auto;
+  position: relative;
+  width: 10em;
+  height: 10em;
+  box-shadow: inset 0 0 0 1em #0dcecb;
+}
+#u13355 .loader3:after {
+  width: 5.2em;
+  height: 10.2em;
+  background: #000000;
+  border-radius: 0 10.2em 10.2em 0;
+  top: -0.1em;
+  left: 5.1em;
+  -webkit-transform-origin: 0px 5.1em;
+  transform-origin: 0px 5.1em;
+  -webkit-animation: load2 2s infinite ease;
+  animation: load2 2s infinite ease;
+}
+@-webkit-keyframes load2 {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+@keyframes load2 {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+
+/*  end of loder3 css */
+
+
+/* css for loader 4 */
+
+#u13355 .loader4 {
+  font-size: 10px;
+  margin: 5em auto;
+  text-indent: -9999em;
+  width: 11em;
+  height: 11em;
+  border-radius: 50%;
+  background: #000000;
+  transform-origin:center center 0;
+  background: -moz-linear-gradient(left, #000000 10%, rgba(255, 255, 255, 0) 42%);
+  background: -webkit-linear-gradient(left, #000000 10%, rgba(255, 255, 255, 0) 42%);
+  background: -o-linear-gradient(left, #000000 10%, rgba(255, 255, 255, 0) 42%);
+  background: -ms-linear-gradient(left, #000000 10%, rgba(255, 255, 255, 0) 42%);
+  background: linear-gradient(to right, #000000 10%, rgba(255, 255, 255, 0) 42%);
+  position: relative;
+  -webkit-animation: load3 1.4s infinite linear;
+  animation: load3 1.4s infinite linear;
+}
+#u13355 .loader4:before {
+  width: 50%;
+  height: 50%;
+  background: #000000;
+  border-radius: 100% 0 0 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  content: '';
+}
+#u13355 .loader4:after {
+  background: #0dcecb;
+  width: 75%;
+  height: 75%;
+  border-radius: 50%;
+  content: '';
+  margin: auto;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+@-webkit-keyframes load3 {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+@keyframes load3 {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+
+/*  end of loader 4  css */
+
+
+/* css for loader 5 */
+
+
+#u13355 .loader5 {
+  font-size: 10px;
+  margin: 5em auto;
+  width: 1em;
+  height: 1em;
+  border-radius: 50%;
+  position: relative;
+  text-indent: -9999em;
+  -webkit-animation: load4 1.3s infinite linear;
+  animation: load4 1.3s infinite linear;
+}
+@-webkit-keyframes load4 {
+  0%,
+  100% {
+    box-shadow: 0em -3em 0em 0.2em #000000, 2em -2em 0 0em #000000, 3em 0em 0 -0.5em #000000, 2em 2em 0 -0.5em #000000, 0em 3em 0 -0.5em #000000, -2em 2em 0 -0.5em #000000, -3em 0em 0 -0.5em #000000, -2em -2em 0 0em #000000;
+  }
+  12.5% {
+    box-shadow: 0em -3em 0em 0em #000000, 2em -2em 0 0.2em #000000, 3em 0em 0 0em #000000, 2em 2em 0 -0.5em #000000, 0em 3em 0 -0.5em #000000, -2em 2em 0 -0.5em #000000, -3em 0em 0 -0.5em #000000, -2em -2em 0 -0.5em #000000;
+  }
+  25% {
+    box-shadow: 0em -3em 0em -0.5em #000000, 2em -2em 0 0em #000000, 3em 0em 0 0.2em #000000, 2em 2em 0 0em #000000, 0em 3em 0 -0.5em #000000, -2em 2em 0 -0.5em #000000, -3em 0em 0 -0.5em #000000, -2em -2em 0 -0.5em #000000;
+  }
+  37.5% {
+    box-shadow: 0em -3em 0em -0.5em #000000, 2em -2em 0 -0.5em #000000, 3em 0em 0 0em #000000, 2em 2em 0 0.2em #000000, 0em 3em 0 0em #000000, -2em 2em 0 -0.5em #000000, -3em 0em 0 -0.5em #000000, -2em -2em 0 -0.5em #000000;
+  }
+  50% {
+    box-shadow: 0em -3em 0em -0.5em #000000, 2em -2em 0 -0.5em #000000, 3em 0em 0 -0.5em #000000, 2em 2em 0 0em #000000, 0em 3em 0 0.2em #000000, -2em 2em 0 0em #000000, -3em 0em 0 -0.5em #000000, -2em -2em 0 -0.5em #000000;
+  }
+  62.5% {
+    box-shadow: 0em -3em 0em -0.5em #000000, 2em -2em 0 -0.5em #000000, 3em 0em 0 -0.5em #000000, 2em 2em 0 -0.5em #000000, 0em 3em 0 0em #000000, -2em 2em 0 0.2em #000000, -3em 0em 0 0em #000000, -2em -2em 0 -0.5em #000000;
+  }
+  75% {
+    box-shadow: 0em -3em 0em -0.5em #000000, 2em -2em 0 -0.5em #000000, 3em 0em 0 -0.5em #000000, 2em 2em 0 -0.5em #000000, 0em 3em 0 -0.5em #000000, -2em 2em 0 0em #000000, -3em 0em 0 0.2em #000000, -2em -2em 0 0em #000000;
+  }
+  87.5% {
+    box-shadow: 0em -3em 0em 0em #000000, 2em -2em 0 -0.5em #000000, 3em 0em 0 -0.5em #000000, 2em 2em 0 -0.5em #000000, 0em 3em 0 -0.5em #000000, -2em 2em 0 0em #000000, -3em 0em 0 0em #000000, -2em -2em 0 0.2em #000000;
+  }
+}
+@keyframes load4 {
+  0%,
+  100% {
+    box-shadow: 0em -3em 0em 0.2em #000000, 2em -2em 0 0em #000000, 3em 0em 0 -0.5em #000000, 2em 2em 0 -0.5em #000000, 0em 3em 0 -0.5em #000000, -2em 2em 0 -0.5em #000000, -3em 0em 0 -0.5em #000000, -2em -2em 0 0em #000000;
+  }
+  12.5% {
+    box-shadow: 0em -3em 0em 0em #000000, 2em -2em 0 0.2em #000000, 3em 0em 0 0em #000000, 2em 2em 0 -0.5em #000000, 0em 3em 0 -0.5em #000000, -2em 2em 0 -0.5em #000000, -3em 0em 0 -0.5em #000000, -2em -2em 0 -0.5em #000000;
+  }
+  25% {
+    box-shadow: 0em -3em 0em -0.5em #000000, 2em -2em 0 0em #000000, 3em 0em 0 0.2em #000000, 2em 2em 0 0em #000000, 0em 3em 0 -0.5em #000000, -2em 2em 0 -0.5em #000000, -3em 0em 0 -0.5em #000000, -2em -2em 0 -0.5em #000000;
+  }
+  37.5% {
+    box-shadow: 0em -3em 0em -0.5em #000000, 2em -2em 0 -0.5em #000000, 3em 0em 0 0em #000000, 2em 2em 0 0.2em #000000, 0em 3em 0 0em #000000, -2em 2em 0 -0.5em #000000, -3em 0em 0 -0.5em #000000, -2em -2em 0 -0.5em #000000;
+  }
+  50% {
+    box-shadow: 0em -3em 0em -0.5em #000000, 2em -2em 0 -0.5em #000000, 3em 0em 0 -0.5em #000000, 2em 2em 0 0em #000000, 0em 3em 0 0.2em #000000, -2em 2em 0 0em #000000, -3em 0em 0 -0.5em #000000, -2em -2em 0 -0.5em #000000;
+  }
+  62.5% {
+    box-shadow: 0em -3em 0em -0.5em #000000, 2em -2em 0 -0.5em #000000, 3em 0em 0 -0.5em #000000, 2em 2em 0 -0.5em #000000, 0em 3em 0 0em #000000, -2em 2em 0 0.2em #000000, -3em 0em 0 0em #000000, -2em -2em 0 -0.5em #000000;
+  }
+  75% {
+    box-shadow: 0em -3em 0em -0.5em #000000, 2em -2em 0 -0.5em #000000, 3em 0em 0 -0.5em #000000, 2em 2em 0 -0.5em #000000, 0em 3em 0 -0.5em #000000, -2em 2em 0 0em #000000, -3em 0em 0 0.2em #000000, -2em -2em 0 0em #000000;
+  }
+  87.5% {
+    box-shadow: 0em -3em 0em 0em #000000, 2em -2em 0 -0.5em #000000, 3em 0em 0 -0.5em #000000, 2em 2em 0 -0.5em #000000, 0em 3em 0 -0.5em #000000, -2em 2em 0 0em #000000, -3em 0em 0 0em #000000, -2em -2em 0 0.2em #000000;
+  }
+}
+
+/* end of loader 5 css */
+
+
+/* css for loader 6 */
+
+#u13355 .loader6 {
+  font-size: 10px;
+  text-indent: -9999em;
+  overflow: hidden;
+  width: 1em;
+  height: 1em;
+  border-radius: 50%;
+  margin: 0.8em auto;
+  position: relative;
+  -webkit-animation: load6 1.7s infinite ease;
+  animation: load6 1.7s infinite ease;
+  transform-origin:center center 0;
+}
+@-webkit-keyframes load6 {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+    box-shadow: -0.11em -0.83em 0 -0.4em #000000, -0.11em -0.83em 0 -0.42em #000000, -0.11em -0.83em 0 -0.44em #000000, -0.11em -0.83em 0 -0.46em #000000, -0.11em -0.83em 0 -0.477em #000000;
+  }
+  5%,
+  95% {
+    box-shadow: -0.11em -0.83em 0 -0.4em #000000, -0.11em -0.83em 0 -0.42em #000000, -0.11em -0.83em 0 -0.44em #000000, -0.11em -0.83em 0 -0.46em #000000, -0.11em -0.83em 0 -0.477em #000000;
+  }
+  30% {
+    box-shadow: -0.11em -0.83em 0 -0.4em #000000, -0.51em -0.66em 0 -0.42em #000000, -0.75em -0.36em 0 -0.44em #000000, -0.83em -0.03em 0 -0.46em #000000, -0.81em 0.21em 0 -0.477em #000000;
+  }
+  55% {
+    box-shadow: -0.11em -0.83em 0 -0.4em #000000, -0.29em -0.78em 0 -0.42em #000000, -0.43em -0.72em 0 -0.44em #000000, -0.52em -0.65em 0 -0.46em #000000, -0.57em -0.61em 0 -0.477em #000000;
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+    box-shadow: -0.11em -0.83em 0 -0.4em #000000, -0.11em -0.83em 0 -0.42em #000000, -0.11em -0.83em 0 -0.44em #000000, -0.11em -0.83em 0 -0.46em #000000, -0.11em -0.83em 0 -0.477em #000000;
+  }
+}
+@keyframes load6 {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+    box-shadow: -0.11em -0.83em 0 -0.4em #000000, -0.11em -0.83em 0 -0.42em #000000, -0.11em -0.83em 0 -0.44em #000000, -0.11em -0.83em 0 -0.46em #000000, -0.11em -0.83em 0 -0.477em #000000;
+  }
+  5%,
+  95% {
+    box-shadow: -0.11em -0.83em 0 -0.4em #000000, -0.11em -0.83em 0 -0.42em #000000, -0.11em -0.83em 0 -0.44em #000000, -0.11em -0.83em 0 -0.46em #000000, -0.11em -0.83em 0 -0.477em #000000;
+  }
+  30% {
+    box-shadow: -0.11em -0.83em 0 -0.4em #000000, -0.51em -0.66em 0 -0.42em #000000, -0.75em -0.36em 0 -0.44em #000000, -0.83em -0.03em 0 -0.46em #000000, -0.81em 0.21em 0 -0.477em #000000;
+  }
+  55% {
+    box-shadow: -0.11em -0.83em 0 -0.4em #000000, -0.29em -0.78em 0 -0.42em #000000, -0.43em -0.72em 0 -0.44em #000000, -0.52em -0.65em 0 -0.46em #000000, -0.57em -0.61em 0 -0.477em #000000;
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+    box-shadow: -0.11em -0.83em 0 -0.4em #000000, -0.11em -0.83em 0 -0.42em #000000, -0.11em -0.83em 0 -0.44em #000000, -0.11em -0.83em 0 -0.46em #000000, -0.11em -0.83em 0 -0.477em #000000;
+  }
+}
+
+
+/* end of loader6 css */
+
+
+/* css for loader 7 */
+
+#u13355 .loader7:before,
+.loader7:after,
+.loader7 {
+  border-radius: 50%;
+  width: 2.5em;
+  height: 2.5em;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+  -webkit-animation: load7 1.8s infinite ease-in-out;
+  animation: load7 1.8s infinite ease-in-out;
+}
+#u13355 .loader7 {
+  margin: 8em auto;
+  font-size: 10px;
+  position: relative;
+  text-indent: -9999em;
+  -webkit-animation-delay: 0.16s;
+  animation-delay: 0.16s;
+}
+#u13355 .loader7:before {
+  left: -3.5em;
+}
+#u13355 .loader7:after {
+  left: 3.5em;
+  -webkit-animation-delay: 0.32s;
+  animation-delay: 0.32s;
+}
+#u13355 .loader7:before,
+.loader7:after {
+  content: '';
+  position: absolute;
+  top: 0;
+}
+@-webkit-keyframes load7 {
+  0%,
+  80%,
+  100% {
+    box-shadow: 0 2.5em 0 -1.3em #000000;
+  }
+  40% {
+    box-shadow: 0 2.5em 0 0 #000000;
+  }
+}
+@keyframes load7 {
+  0%,
+  80%,
+  100% {
+    box-shadow: 0 2.5em 0 -1.3em #000000;
+  }
+  40% {
+    box-shadow: 0 2.5em 0 0 #000000;
+  }
+}
+
+
+/* end of loader 7 css */
+
+
+/* css for loader 8 */
+
+#u13355 .loader8 {
+  margin: 6em auto;
+  font-size: 10px;
+  position: relative;
+  text-indent: -9999em;
+  border-top: 1.1em solid rgba(255, 255, 255, 0.2);
+  border-right: 1.1em solid rgba(255, 255, 255, 0.2);
+  border-bottom: 1.1em solid rgba(255, 255, 255, 0.2);
+  border-left: 1.1em solid #000000;
+  -webkit-animation: load8 1.1s infinite linear;
+  animation: load8 1.1s infinite linear;
+  transform-origin:center center 0;
+  
+}
+#u13355 .loader8,
+.loader8:after {
+  border-radius: 50%;
+  width: 10em;
+  height: 10em;
+}
+@-webkit-keyframes load8 {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+@keyframes load8 {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+
+/*  end of loader 8 css */
+
+
+#u13355 .preloader {
+    position:fixed;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    background-color:#E2E2E2; /* change if the mask should have another color then white */
+    opacity:0.8;
+    //z-index:99; /* makes sure it stays on top */
+
+}
+
+#u13355 .status{ margin:20% auto; }
+
+
+
+
+@media screen and (max-width: 980px) {
+
+#u13355 .status{ margin:50% auto; }
+
+}
+
+@media screen and (max-width: 860px) {
+
+#u13355 .status{ margin:50% auto; }
+
+}
+
+@media screen and (max-width: 740px) {
+
+#u13355 .status{ margin:50% auto; }
+
+}
+
+@media screen and (max-width: 640px) {
+
+#u13355 .status{ margin:50% auto; }
+
+  
+}
+
+@media screen and (max-width: 480px) {
+
+#u13355 .status{ margin:50% auto; }
+
+}
+
+@media screen and (max-width: 360px) {
+
+#u13355 .status{ margin:80% auto; }
+
+}
+
+
+</style>
+
+ </head>
  <body class="always_vert_scroll">
 
   <div class="test clearfix" id="page"><!-- column -->
    <div class="position_content" id="page_position_content">
-    <a class="anchor_item colelem" id="top"></a>
+    <div class="clearfix colelem" id="ptop"><!-- group -->
+     <a class="anchor_item grpelem" id="top"></a>
+     <div class="grpelem" id="u13354"><!-- custom html -->
+      <style>
+body{
+font-family: "Simsun", "宋体";
+}
+</style>
+     </div>
+     <div class="size_fixed grpelem" id="u13356"><!-- custom html -->
+      
+            
+     </div>
+     <div class="size_fixed grpelem" id="u13355"><!-- custom html -->
+      
+
+<div class="preloader"> 
+<div class="loader2 status">Loading...</div>
+</div>
+  
+
+     </div>
+    </div>
     <div class="browser_width" id="u5866-bw">
      <div class="ose_pre_init pinned-colelem" id="u5866"><!-- simple frame --></div>
     </div>
@@ -94,17 +689,53 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <p>&nbsp;</p>
      </div>
      <!-- /m_editable -->
+     <a class="anchor_item grpelem" id="persona"></a>
     </div>
     <div class="clearfix colelem" id="pu7667"><!-- group -->
      <div class="clip_frame" id="u7667"><!-- image -->
       <img class="block" id="u7667_img" src="images/dot.gif?crc=4249697081" alt="" width="11" height="70"/>
+     </div>
+     <div class="clearfix" id="u13298"><!-- column -->
+      <div class="clearfix pinned-colelem" id="u13299"><!-- group -->
+       <div class="clearfix" id="u13300"><!-- group -->
+        <!-- m_editable region-id="editable-static-tag-U13301-BP_infinity" template="ibm-cloud-automation-manager.html" data-type="html" data-ice-options="disableImageResize,link,clickable" data-ice-editable="link" -->
+        <a class="nonblock nontext MuseLinkActive rounded-corners clearfix" id="u13301-4" href="ibm-cloud-automation-manager.html" data-href="page:U11101" data-muse-uid="U13301" data-muse-type="txt_frame"><!-- content --><p>1</p></a>
+        <!-- /m_editable -->
+       </div>
+       <!-- m_editable region-id="editable-static-tag-U13302-BP_infinity" template="ibm-cloud-automation-manager.html" data-type="html" data-ice-options="disableImageResize,link,clickable" data-ice-editable="link" -->
+       <a class="nonblock nontext MuseLinkActive clearfix" id="u13302-4" href="ibm-cloud-automation-manager.html" data-href="page:U11101" data-muse-uid="U13302" data-muse-type="txt_frame"><!-- content --><p class="ts--3">RESEARCH</p></a>
+       <!-- /m_editable -->
+      </div>
+      <!-- m_editable region-id="editable-static-tag-U13308-BP_infinity" template="ibm-cloud-automation-manager.html" data-type="html" data-ice-options="disableImageResize,link,clickable" data-ice-editable="link" -->
+      <a class="nonblock nontext anim_swing clearfix pinned-colelem" id="u13308-5" href="ibm-cloud-automation-manager.html#persona" data-href="anchor:U11018:U13337" data-muse-uid="U13308" data-muse-type="txt_frame"><!-- content --><ul class="list0 nls-None" id="u13308-3"><li>Persona</li></ul></a>
+      <!-- /m_editable -->
+      <!-- m_editable region-id="editable-static-tag-U13309-BP_infinity" template="ibm-cloud-automation-manager.html" data-type="html" data-ice-options="disableImageResize,link,clickable" data-ice-editable="link" -->
+      <a class="nonblock nontext anim_swing clearfix pinned-colelem" id="u13309-5" href="ibm-cloud-automation-manager.html#asis-scenario" data-href="anchor:U11018:U13340" data-muse-uid="U13309" data-muse-type="txt_frame"><!-- content --><ul class="list0 nls-None" id="u13309-3"><li>As-is Scenario</li></ul></a>
+      <!-- /m_editable -->
+      <!-- m_editable region-id="editable-static-tag-U13303-BP_infinity" template="ibm-cloud-automation-manager.html" data-type="html" data-ice-options="disableImageResize,link,clickable" data-ice-editable="link" -->
+      <a class="nonblock nontext anim_swing clearfix pinned-colelem" id="u13303-5" href="ibm-cloud-automation-manager.html#painpoints" data-href="anchor:U11018:U13343" data-muse-uid="U13303" data-muse-type="txt_frame"><!-- content --><ul class="list0 nls-None" id="u13303-3"><li>Pain Points</li></ul></a>
+      <!-- /m_editable -->
+      <!-- m_editable region-id="editable-static-tag-U13334-BP_infinity" template="ibm-cloud-automation-manager.html" data-type="html" data-ice-options="disableImageResize,link,clickable" data-ice-editable="link" -->
+      <a class="nonblock nontext anim_swing clearfix pinned-colelem" id="u13334-5" href="ibm-cloud-automation-manager.html#hills" data-href="anchor:U11018:U13346" data-muse-uid="U13334" data-muse-type="txt_frame"><!-- content --><ul class="list0 nls-None" id="u13334-3"><li>Hills</li></ul></a>
+      <!-- /m_editable -->
+      <div class="clearfix pinned-colelem" id="u13304"><!-- group -->
+       <div class="clearfix" id="u13305"><!-- group -->
+        <!-- m_editable region-id="editable-static-tag-U13306-BP_infinity" template="ibm-cloud-automation-manager.html" data-type="html" data-ice-options="disableImageResize,link,clickable" data-ice-editable="link" -->
+        <a class="nonblock nontext rounded-corners clearfix" id="u13306-4" href="ibm-cloud-automation-manager-hifi.html" data-href="page:U11589" data-muse-uid="U13306" data-muse-type="txt_frame"><!-- content --><p>2</p></a>
+        <!-- /m_editable -->
+       </div>
+       <!-- m_editable region-id="editable-static-tag-U13307-BP_infinity" template="ibm-cloud-automation-manager.html" data-type="html" data-ice-options="disableImageResize,link,clickable" data-ice-editable="link" -->
+       <a class="nonblock nontext clearfix" id="u13307-4" href="ibm-cloud-automation-manager-hifi.html" data-href="page:U11589" data-muse-uid="U13307" data-muse-type="txt_frame"><!-- content --><p class="ts--3">DESIGN</p></a>
+       <!-- /m_editable -->
+      </div>
      </div>
      <a class="nonblock nontext clearfix" id="u7595-4" href="index.html#contact-me" data-href="anchor:U6725:U10281" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=0,M12=1,M21=-1,M22=0,SizingMethod='auto expand')" data-mu-ie-matrix-dx="212.99999999999997" data-mu-ie-matrix-dy="-71"><!-- content --><p>CONTACT ME—</p></a>
      <div class="clearfix" id="u7696-4" data-IBE-flags="txtStyleSrc" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=0,M12=1,M21=-1,M22=0,SizingMethod='auto expand')" data-mu-ie-matrix-dx="58" data-mu-ie-matrix-dy="-58"><!-- content -->
       <p>ABOUT ME</p>
      </div>
     </div>
-    <div class="clearfix colelem" id="pu11247"><!-- group -->
+    <div class="clearfix colelem" id="pasis-scenario"><!-- group -->
+     <a class="anchor_item grpelem" id="asis-scenario"></a>
      <div class="clearfix grpelem" id="u11247"><!-- group -->
       <!-- m_editable region-id="editable-static-tag-U11241-BP_infinity" template="ibm-cloud-automation-manager.html" data-type="html" data-ice-options="disableImageResize,link,txtStyleTarget" -->
       <div class="clearfix grpelem" id="u11241-11" data-muse-uid="U11241" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content -->
@@ -194,7 +825,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      </div>
      <!-- /m_editable -->
     </div>
-    <div class="clearfix colelem" id="pu11349-4"><!-- group -->
+    <div class="clearfix colelem" id="ppainpoints"><!-- group -->
+     <a class="anchor_item grpelem" id="painpoints"></a>
      <!-- m_editable region-id="editable-static-tag-U11349-BP_infinity" template="ibm-cloud-automation-manager.html" data-type="html" data-ice-options="disableImageResize,link,txtStyleTarget" -->
      <div class="ts--3 clearfix grpelem" id="u11349-4" data-muse-uid="U11349" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content -->
       <p><span class="ts--2">For George ,it's hard to ensure the tasks completed in scheduled deadline .</span></p>
@@ -206,70 +838,73 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      </div>
      <!-- /m_editable -->
     </div>
-    <div class="browser_width colelem" id="u11352-bw">
-     <div id="u11352"><!-- column -->
-      <div class="clearfix" id="u11352_align_to_page">
-       <div class="clearfix colelem" id="pu11357-11"><!-- group -->
-        <!-- m_editable region-id="editable-static-tag-U11357-BP_infinity" template="ibm-cloud-automation-manager.html" data-type="html" data-ice-options="disableImageResize,link,txtStyleTarget" -->
-        <div class="clearfix grpelem" id="u11357-11" data-muse-uid="U11357" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content -->
-         <p id="u11357-4"><span id="u11357">3.</span><span id="u11357-2"> </span><span id="u11357-3">PAIN POINTS</span></p>
-         <p class="ts--3">&nbsp;</p>
-         <p class="ts--3">&nbsp;</p>
-         <p id="u11357-8">Areas where we can do this better!</p>
-         <p id="u11357-9">&nbsp;</p>
+    <div class="clearfix colelem" id="phills"><!-- group -->
+     <a class="anchor_item grpelem" id="hills"></a>
+     <div class="browser_width grpelem" id="u11352-bw">
+      <div id="u11352"><!-- column -->
+       <div class="clearfix" id="u11352_align_to_page">
+        <div class="clearfix colelem" id="pu11357-11"><!-- group -->
+         <!-- m_editable region-id="editable-static-tag-U11357-BP_infinity" template="ibm-cloud-automation-manager.html" data-type="html" data-ice-options="disableImageResize,link,txtStyleTarget" -->
+         <div class="clearfix grpelem" id="u11357-11" data-muse-uid="U11357" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content -->
+          <p id="u11357-4"><span id="u11357">3.</span><span id="u11357-2"> </span><span id="u11357-3">PAIN POINTS</span></p>
+          <p class="ts--3">&nbsp;</p>
+          <p class="ts--3">&nbsp;</p>
+          <p id="u11357-8">Areas where we can do this better!</p>
+          <p id="u11357-9">&nbsp;</p>
+         </div>
+         <!-- /m_editable -->
+         <div class="grpelem" id="u11358"><!-- simple frame --></div>
+        </div>
+        <!-- m_editable region-id="editable-static-tag-U11373-BP_infinity" template="ibm-cloud-automation-manager.html" data-type="html" data-ice-options="disableImageResize,link" -->
+        <div class="rounded-corners clearfix colelem" id="u11373-4" data-muse-uid="U11373" data-muse-type="txt_frame"><!-- content -->
+         <p>1</p>
         </div>
         <!-- /m_editable -->
-        <div class="grpelem" id="u11358"><!-- simple frame --></div>
-       </div>
-       <!-- m_editable region-id="editable-static-tag-U11373-BP_infinity" template="ibm-cloud-automation-manager.html" data-type="html" data-ice-options="disableImageResize,link" -->
-       <div class="rounded-corners clearfix colelem" id="u11373-4" data-muse-uid="U11373" data-muse-type="txt_frame"><!-- content -->
-        <p>1</p>
-       </div>
-       <!-- /m_editable -->
-       <div class="clearfix colelem" id="pu11368-18"><!-- group -->
-        <!-- m_editable region-id="editable-static-tag-U11368-BP_infinity" template="ibm-cloud-automation-manager.html" data-type="html" data-ice-options="disableImageResize,link,txtStyleTarget" -->
-        <div class="clearfix grpelem" id="u11368-18" data-muse-uid="U11368" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content -->
-         <p class="ts--3" id="u11368-3"><span class="ts--2" id="u11368">Carl (the Contributor)</span><span class="ts--2"> has no place to go to find content to start his project from. This forces him to redo work and waste time. If he is lucky enough to find something to modify it requires a great amount of customization to make it work.</span></p>
-         <p class="ts--3" id="u11368-4">&nbsp;</p>
-         <p class="ts--3" id="u11368-5">&nbsp;</p>
-         <p class="ts--3" id="u11368-6">&nbsp;</p>
-         <p class="ts--3" id="u11368-9"><span class="ts--2" id="u11368-7">Sandy (the IT Ops Administrator)</span><span class="ts--2"> must use multiple services and technologies that are not made to work together to compose or manage an IT service. This requires companies like hers to create quick fixes or “band aid” solutions.</span></p>
-         <p class="ts--3" id="u11368-10">&nbsp;</p>
-         <p class="ts--3" id="u11368-11">&nbsp;</p>
-         <p class="ts--3" id="u11368-12">&nbsp;</p>
-         <p class="ts--3" id="u11368-15"><span class="ts--2" id="u11368-13">George (the IT Service Consumer)</span><span class="ts--2"> has to wait for everything from Sandy and her team or he goes rogue and acts as “shadow IT” because he has to meet his deadlines.</span></p>
+        <div class="clearfix colelem" id="pu11368-18"><!-- group -->
+         <!-- m_editable region-id="editable-static-tag-U11368-BP_infinity" template="ibm-cloud-automation-manager.html" data-type="html" data-ice-options="disableImageResize,link,txtStyleTarget" -->
+         <div class="clearfix grpelem" id="u11368-18" data-muse-uid="U11368" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content -->
+          <p class="ts--3" id="u11368-3"><span class="ts--2" id="u11368">Carl (the Contributor)</span><span class="ts--2"> has no place to go to find content to start his project from. This forces him to redo work and waste time. If he is lucky enough to find something to modify it requires a great amount of customization to make it work.</span></p>
+          <p class="ts--3" id="u11368-4">&nbsp;</p>
+          <p class="ts--3" id="u11368-5">&nbsp;</p>
+          <p class="ts--3" id="u11368-6">&nbsp;</p>
+          <p class="ts--3" id="u11368-9"><span class="ts--2" id="u11368-7">Sandy (the IT Ops Administrator)</span><span class="ts--2"> must use multiple services and technologies that are not made to work together to compose or manage an IT service. This requires companies like hers to create quick fixes or “band aid” solutions.</span></p>
+          <p class="ts--3" id="u11368-10">&nbsp;</p>
+          <p class="ts--3" id="u11368-11">&nbsp;</p>
+          <p class="ts--3" id="u11368-12">&nbsp;</p>
+          <p class="ts--3" id="u11368-15"><span class="ts--2" id="u11368-13">George (the IT Service Consumer)</span><span class="ts--2"> has to wait for everything from Sandy and her team or he goes rogue and acts as “shadow IT” because he has to meet his deadlines.</span></p>
+          <p>&nbsp;</p>
+         </div>
+         <!-- /m_editable -->
+         <!-- m_editable region-id="editable-static-tag-U11385-BP_infinity" template="ibm-cloud-automation-manager.html" data-type="html" data-ice-options="disableImageResize,link" -->
+         <div class="rounded-corners clearfix grpelem" id="u11385-4" data-muse-uid="U11385" data-muse-type="txt_frame"><!-- content -->
+          <p>2</p>
+         </div>
+         <!-- /m_editable -->
+         <!-- m_editable region-id="editable-static-tag-U11391-BP_infinity" template="ibm-cloud-automation-manager.html" data-type="html" data-ice-options="disableImageResize,link" -->
+         <div class="rounded-corners clearfix grpelem" id="u11391-4" data-muse-uid="U11391" data-muse-type="txt_frame"><!-- content -->
+          <p>3</p>
+         </div>
+         <!-- /m_editable -->
+        </div>
+        <!-- m_editable region-id="editable-static-tag-U11399-BP_infinity" template="ibm-cloud-automation-manager.html" data-type="html" data-ice-options="disableImageResize,link" -->
+        <div class="clearfix colelem" id="u11399-24" data-muse-uid="U11399" data-muse-type="txt_frame"><!-- content -->
+         <p class="ts--3" id="u11399">&nbsp;</p>
+         <p class="ts--3" id="u11399-3">PAIN POINTS SUMMARY</p>
+         <p class="ts--3" id="u11399-4">&nbsp;</p>
+         <p class="ts--3" id="u11399-6">Constantly moving targets due to shifting requirements and handoffs between</p>
+         <p class="ts--3" id="u11399-8">teams. New constraints are discovered, new requirements are added or the</p>
+         <p class="ts--3" id="u11399-10">existing ones change.</p>
+         <p class="ts--3" id="u11399-11">&nbsp;</p>
+         <p class="ts--3" id="u11399-13">Manual approval requests take too long and block progress.</p>
+         <p class="ts--3" id="u11399-14">&nbsp;</p>
+         <p class="ts--3" id="u11399-16">Multiple services and technologies are used that are not made to work</p>
+         <p class="ts--3" id="u11399-18">together, requiring quick fixes or “band aid” solutions.</p>
+         <p class="ts--3" id="u11399-19">&nbsp;</p>
+         <p class="ts--3" id="u11399-21">Cloud is increasing complexity.</p>
          <p>&nbsp;</p>
         </div>
         <!-- /m_editable -->
-        <!-- m_editable region-id="editable-static-tag-U11385-BP_infinity" template="ibm-cloud-automation-manager.html" data-type="html" data-ice-options="disableImageResize,link" -->
-        <div class="rounded-corners clearfix grpelem" id="u11385-4" data-muse-uid="U11385" data-muse-type="txt_frame"><!-- content -->
-         <p>2</p>
-        </div>
-        <!-- /m_editable -->
-        <!-- m_editable region-id="editable-static-tag-U11391-BP_infinity" template="ibm-cloud-automation-manager.html" data-type="html" data-ice-options="disableImageResize,link" -->
-        <div class="rounded-corners clearfix grpelem" id="u11391-4" data-muse-uid="U11391" data-muse-type="txt_frame"><!-- content -->
-         <p>3</p>
-        </div>
-        <!-- /m_editable -->
        </div>
-       <!-- m_editable region-id="editable-static-tag-U11399-BP_infinity" template="ibm-cloud-automation-manager.html" data-type="html" data-ice-options="disableImageResize,link" -->
-       <div class="clearfix colelem" id="u11399-24" data-muse-uid="U11399" data-muse-type="txt_frame"><!-- content -->
-        <p class="ts--3" id="u11399">&nbsp;</p>
-        <p class="ts--3" id="u11399-3">PAIN POINTS SUMMARY</p>
-        <p class="ts--3" id="u11399-4">&nbsp;</p>
-        <p class="ts--3" id="u11399-6">Constantly moving targets due to shifting requirements and handoffs between</p>
-        <p class="ts--3" id="u11399-8">teams. New constraints are discovered, new requirements are added or the</p>
-        <p class="ts--3" id="u11399-10">existing ones change.</p>
-        <p class="ts--3" id="u11399-11">&nbsp;</p>
-        <p class="ts--3" id="u11399-13">Manual approval requests take too long and block progress.</p>
-        <p class="ts--3" id="u11399-14">&nbsp;</p>
-        <p class="ts--3" id="u11399-16">Multiple services and technologies are used that are not made to work</p>
-        <p class="ts--3" id="u11399-18">together, requiring quick fixes or “band aid” solutions.</p>
-        <p class="ts--3" id="u11399-19">&nbsp;</p>
-        <p class="ts--3" id="u11399-21">Cloud is increasing complexity.</p>
-        <p>&nbsp;</p>
-       </div>
-       <!-- /m_editable -->
       </div>
      </div>
     </div>
@@ -352,18 +987,15 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      </div>
      <!-- /m_editable -->
      <div class="browser_width grpelem" id="u11481-bw">
-      <div id="u11481"><!-- column -->
+      <div id="u11481"><!-- group -->
        <div class="clearfix" id="u11481_align_to_page">
-        <img class="colelem" id="u11493" alt="" width="30" height="30" src="images/%e5%b1%95%e5%bc%80-u11493.png?crc=3918661600" data-hidpi-src="images/%e5%b1%95%e5%bc%80-u11493_2x.png?crc=264129850"/><!-- rasterized frame -->
-        <!-- m_editable region-id="editable-static-tag-U11503-BP_infinity" template="ibm-cloud-automation-manager.html" data-type="html" data-ice-options="disableImageResize,link,txtStyleTarget" -->
-        <div class="clearfix colelem" id="u11503-6" data-muse-uid="U11503" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content -->
-         <p id="u11503-2"><span class="ts--2" id="u11503">Click To Continue View The Hifi Of Cloud Automation Manager</span></p>
-         <p id="u11503-4"><span class="ts--2" id="u11503-3">请展开继续浏览高保真设计部分</span></p>
-        </div>
+        <!-- m_editable region-id="editable-static-tag-U11503-BP_infinity" template="ibm-cloud-automation-manager.html" data-type="html" data-ice-options="disableImageResize,link,clickable" data-ice-editable="link" -->
+        <a class="nonblock nontext clearfix grpelem" id="u11503-6" href="ibm-cloud-automation-manager-hifi.html" data-href="page:U11589" data-muse-uid="U11503" data-muse-type="txt_frame"><!-- content --><p id="u11503-2"><span class="ts--2" id="u11503">Click To Continue View The Hifi Of Cloud Automation Manager</span></p><p id="u11503-4"><span class="ts--2" id="u11503-3">请展开继续浏览高保真设计部分</span></p></a>
         <!-- /m_editable -->
        </div>
       </div>
      </div>
+     <a class="nonblock nontext grpelem" id="u11493" href="ibm-cloud-automation-manager-hifi.html" data-href="page:U11589"><!-- state-based BG images --></a>
     </div>
     <div class="verticalspacer" data-offset-top="5105" data-content-above-spacer="5104" data-content-below-spacer="268"></div>
     <div class="browser_width colelem" id="u6824-bw">
@@ -411,7 +1043,16 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
    <img class="preload" src="images/u6951_states-r_2x.png?crc=4090020311" alt=""/>
    <img class="preload" src="images/u6951_states-a.png?crc=253746494" alt=""/>
    <img class="preload" src="images/u6951_states-a_2x.png?crc=4090020311" alt=""/>
+   <img class="preload" src="images/u11493-r.png?crc=4193892017" alt=""/>
+   <img class="preload" src="images/u11493-r_2x.png?crc=279264518" alt=""/>
   </div>
+  <!-- JS includes -->
+  <script type="text/javascript">
+   if (document.location.protocol != 'https:') document.write('\x3Cscript src="http://musecdn2.businesscatalyst.com/scripts/4.0/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
+</script>
+  <script type="text/javascript">
+   window.jQuery || document.write('\x3Cscript src="scripts/jquery-1.8.3.min.js?crc=209076791" type="text/javascript">\x3C/script>');
+</script>
   <!-- Other scripts -->
   <script type="text/javascript">
    // Decide weather to suppress missing file error or not based on preference setting
@@ -431,7 +1072,7 @@ Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.resizeHeight('.browser_width');/* resize height */
 Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.fullPage('#page');/* 100% height page */
-$('#u5866').registerOpacityScrollEffect([{"opacity":0,"in":[-Infinity,68.95],"fade":0},{"opacity":100,"in":[68.95,68.95]},{"opacity":100,"in":[68.95,Infinity],"fade":2}]);/* scroll effect */
+$('#u5866').registerOpacityScrollEffect([{"in":[-Infinity,68.95],"fade":0,"opacity":0},{"in":[68.95,68.95],"opacity":100},{"in":[68.95,Infinity],"fade":2,"opacity":100}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
@@ -439,5 +1080,82 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 </script>
   <!-- RequireJS script -->
   <script src="scripts/require.js?crc=3951022091" type="text/javascript" async data-main="scripts/museconfig.js?crc=4177022356" onload="if (requirejs) requirejs.onError = function(requireType, requireModule) { if (requireType && requireType.toString && requireType.toString().indexOf && 0 <= requireType.toString().indexOf('#scripterror')) window.Muse.assets.check(); }" onerror="window.Muse.assets.check();"></script>
+  
+  <!--HTML Widget code-->
+  
+<script type="text/javascript">
+Muse.Utils.processHyperlink = function(a) {
+    var b = a.href,
+        c = $(window),
+        a = $(a),
+        d = a.attr("target");
+    if (!d || d == "_self") {
+        var f = b.lastIndexOf("/"),
+            d = b.lastIndexOf("#"),
+            h = a.attr("class").match(/anim_(\w+)/);
+        if (h && d > f) {
+            var a = c.data("scrollWrapper"),
+                j = b.substring(d),
+                d = $(j).offset(),
+                b = h[1],
+                g = a || window,
+                f = document.documentElement || document.body,
+                h = (a ? a.scrollHeight() : f.scrollHeight) - c.height(),
+                c = (a ? a.scrollWidth() : f.scrollWidth) - c.width(),
+                k = Math.min(h, d.top + (a && !a.isStandard() ? a.scrollTop() : 0)),
+                i = Math.min(c, d.left +
+                    (a && !a.isStandard() ? a.scrollLeft() : 0)),
+                c = function() {
+                    g.scrollTo(i, k);
+                    try {
+                        history.replaceState({})
+                    } catch (a) {
+                        if (!jQuery.browser.msie || jQuery.browser.version > 7) window.location.hash = j
+                    }
+                };
+            try {
+                history.pushState({}, null, j)
+            } catch (m) {}
+            if (window.scrollTo || void 0 !== a) {
+                var a = a || $(document),
+                    l = a.scrollLeft(),
+                    p = a.scrollTop(),
+                    q = l,
+                    o = p;
+                $({
+                    scrollDistance: 0
+                }).animate({
+                    scrollDistance: 1
+                }, {
+                    duration: 1.5E3,
+                    easing: b,
+                    step: function(a) {
+                        a != 0 && (o = a * (k - p), q = a * (i - l), g.scrollTo(l + q, p + o))
+                    },
+                    complete: c
+                })
+            } else $("html,body").animate({
+                scrollTop: k,
+                scrollLeft: i
+            }, 1E3, b, c);
+            return !1
+        }
+    }(c = Muse.Utils.urlParam(b, "devicelock")) && Muse.Utils.createCookie("devicelock", c, 0);
+    return !0
+};
+</script>
+
+		
+		<script type="text/javascript">
+    
+        $(window).load(function() { // makes sure the whole site is loaded
+            $('.status').delay(1*1000).fadeOut(1*100); // will first fade out the loading animation
+            $('.preloader').delay((1*1000)+1000).fadeOut(1*100); // will fade out the white DIV that covers the website.
+            
+        })
+    
+    </script>
+		
+		
    </body>
 </html>
