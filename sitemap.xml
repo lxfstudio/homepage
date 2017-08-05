@@ -246,9 +246,6 @@
       <image:loc>http://www.lxfdesign.com/images/%E8%8A%B1%E7%9B%86.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.lxfdesign.com/images/%E8%8A%B1%E7%9B%86_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.lxfdesign.com/images/%E8%8A%B1%E7%9B%86%E7%BA%BF.png</image:loc>
     </image:image>
     <image:image>
@@ -1273,6 +1270,12 @@
     </image:image>
     <image:image>
       <image:loc>http://www.lxfdesign.com/images/cam_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/logo-mini40x40.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/logo-mini40x40_2x.png</image:loc>
     </image:image>
   </url>
   <url>
