@@ -776,7 +776,7 @@
   </url>
   <url>
     <loc>http://www.lxfdesign.com/ibm-cloud-automation-manager.html</loc>
-    <lastmod>2017-08-07</lastmod>
+    <lastmod>2017-08-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -872,7 +872,7 @@
   </url>
   <url>
     <loc>http://www.lxfdesign.com/ibm-cloud-automation-manager-hifi.html</loc>
-    <lastmod>2017-08-06</lastmod>
+    <lastmod>2017-08-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1048,6 +1048,24 @@
     </image:image>
     <image:image>
       <image:loc>http://www.lxfdesign.com/images/logo-mini40x40_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/instance%20list%20_%20all%20instances@4x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/instance%20list%20_%20all%20instances@4x_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/instance%20list%20_%20all%20instances4@4x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/instance%20list%20_%20all%20instances4@4x_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/0314%20by%20relationship3%E5%89%AF%E6%9C%AC.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/0314%20by%20relationship3%E5%89%AF%E6%9C%AC_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -1592,7 +1610,7 @@
   </url>
   <url>
     <loc>http://www.lxfdesign.com/industrial-design.html</loc>
-    <lastmod>2017-08-06</lastmod>
+    <lastmod>2017-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
