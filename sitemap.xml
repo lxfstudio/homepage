@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.lxfdesign.com/index.html</loc>
-    <lastmod>2017-08-11</lastmod>
+    <lastmod>2017-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -122,7 +122,7 @@
   </url>
   <url>
     <loc>http://www.lxfdesign.com/twist-hifi.html</loc>
-    <lastmod>2017-08-11</lastmod>
+    <lastmod>2017-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -148,6 +148,12 @@
     </image:image>
     <image:image>
       <image:loc>http://www.lxfdesign.com/images/close_light.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/logo-mini40x40.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/logo-mini40x40_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.lxfdesign.com/images/solution.jpg</image:loc>
@@ -326,7 +332,7 @@
   </url>
   <url>
     <loc>http://www.lxfdesign.com/visual-design.html</loc>
-    <lastmod>2017-08-11</lastmod>
+    <lastmod>2017-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -530,7 +536,7 @@
   </url>
   <url>
     <loc>http://www.lxfdesign.com/photograph.html</loc>
-    <lastmod>2017-08-11</lastmod>
+    <lastmod>2017-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -743,7 +749,7 @@
   </url>
   <url>
     <loc>http://www.lxfdesign.com/ux-design.html</loc>
-    <lastmod>2017-08-11</lastmod>
+    <lastmod>2017-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -772,6 +778,21 @@
     </image:image>
     <image:image>
       <image:loc>http://www.lxfdesign.com/images/lodding1_2x.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/steakanimfinal.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/steakanimfinal_2x.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/smale.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/smale_2x.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/uxdesignicon.svg</image:loc>
     </image:image>
   </url>
   <url>
@@ -1610,7 +1631,7 @@
   </url>
   <url>
     <loc>http://www.lxfdesign.com/industrial-design.html</loc>
-    <lastmod>2017-08-11</lastmod>
+    <lastmod>2017-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1697,7 +1718,7 @@
   </url>
   <url>
     <loc>http://www.lxfdesign.com/twist-smart-pot.html</loc>
-    <lastmod>2017-08-11</lastmod>
+    <lastmod>2017-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
