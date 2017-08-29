@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.lxfdesign.com" resolutions="1x,2x" timestamp="1503996920401">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.lxfdesign.com" resolutions="1x,2x" timestamp="1503998611893">
   <folder name="css">
-    <file name="site_global.css" crc="234896857"/>
-    <file name="master_a-master.css" crc="151963528" ref="visual-design:index:51job:this-is-...-emoji:twist-hifi:twist-smart-pot:twist:51jobhifi:soution-page:ibm-cloud-automation-manager:solution-page-hifi:ux-design:magi智灵手机助手:photograph:ibm-cloud-automation-manager-hifi:industrial-design"/>
+    <file name="site_global.css" crc="3786830544"/>
+    <file name="master_a-master.css" crc="91367762" ref="visual-design:index:51job:this-is-...-emoji:twist-hifi:twist-smart-pot:twist:51jobhifi:soution-page:ibm-cloud-automation-manager:solution-page-hifi:ux-design:magi智灵手机助手:photograph:ibm-cloud-automation-manager-hifi:industrial-design"/>
     <file name="master_b-pdf.css" crc="4005124191" ref="magi需求分析:twist-concept---optimize:magi选题报告:magi概念设计:twist-research-report:lxf-selected-design-works:twist-final-solution:twist-function-clarify"/>
     <file name="magi____1.css" crc="59170608" ref="magi需求分析"/>
     <file name="iefonts_magi____1.css" crc="490219535" ref="magi需求分析"/>
@@ -9,7 +9,7 @@
     <file name="iefonts_twist-concept---optimize.css" crc="339447026" ref="twist-concept---optimize"/>
     <file name="visual-design.css" crc="4238590302" ref="visual-design"/>
     <file name="iefonts_visual-design.css" crc="18912229" ref="visual-design"/>
-    <file name="index.css" crc="4127495267" ref="index"/>
+    <file name="index.css" crc="21014538" ref="index"/>
     <file name="iefonts_index.css" crc="19359379" ref="index"/>
     <file name="51job.css" crc="3914867497" ref="51job"/>
     <file name="iefonts_51job.css" crc="363949653" ref="51job"/>
@@ -87,48 +87,48 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="dot.gif" crc="4249697081" seo="true" ref="index:ux-design:ibm-cloud-automation-manager:ibm-cloud-automation-manager-hifi:51job:51jobhifi:soution-page:twist:solution-page-hifi:twist-hifi:magi智灵手机助手:industrial-design:twist-smart-pot:visual-design:this-is-...-emoji:photograph">
-      <caption webpage="photograph" alt=""/>
       <caption webpage="this-is-...-emoji" alt=""/>
-      <caption webpage="51job" alt=""/>
       <caption webpage="solution-page-hifi" alt=""/>
-      <caption webpage="twist-smart-pot" alt=""/>
-      <caption webpage="ux-design" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="ibm-cloud-automation-manager" alt=""/>
-      <caption webpage="51jobhifi" alt=""/>
-      <caption webpage="soution-page" alt=""/>
+      <caption webpage="51job" alt=""/>
       <caption webpage="visual-design" alt=""/>
-      <caption webpage="twist-hifi" alt=""/>
-      <caption webpage="magi智灵手机助手" alt=""/>
-      <caption webpage="twist" alt=""/>
-      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="ux-design" alt=""/>
+      <caption webpage="soution-page" alt=""/>
       <caption webpage="industrial-design" alt=""/>
+      <caption webpage="magi智灵手机助手" alt=""/>
+      <caption webpage="twist-hifi" alt=""/>
+      <caption webpage="twist" alt=""/>
+      <caption webpage="51jobhifi" alt=""/>
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+      <caption webpage="photograph" alt=""/>
+      <caption webpage="ibm-cloud-automation-manager" alt=""/>
+      <caption webpage="twist-smart-pot" alt=""/>
     </file>
     <file name="logo.svg" crc="484856603" seo="true" ref="index:ux-design:ibm-cloud-automation-manager:ibm-cloud-automation-manager-hifi:51job:51jobhifi:soution-page:twist:solution-page-hifi:twist-hifi:magi智灵手机助手:magi选题报告:magi需求分析:magi概念设计:industrial-design:twist-smart-pot:twist-research-report:twist-function-clarify:twist-concept---optimize:twist-final-solution:visual-design:this-is-...-emoji:photograph:lxf-selected-design-works">
-      <caption webpage="photograph" alt=""/>
-      <caption webpage="magi选题报告" alt=""/>
-      <caption webpage="magi概念设计" alt=""/>
+      <caption webpage="this-is-...-emoji" alt=""/>
       <caption webpage="twist-final-solution" alt=""/>
-      <caption webpage="visual-design" alt=""/>
-      <caption webpage="51job" alt=""/>
-      <caption webpage="twist-research-report" alt=""/>
-      <caption webpage="solution-page-hifi" alt=""/>
-      <caption webpage="twist-smart-pot" alt=""/>
-      <caption webpage="magi需求分析" alt=""/>
-      <caption webpage="lxf-selected-design-works" alt=""/>
-      <caption webpage="ux-design" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="ibm-cloud-automation-manager" alt=""/>
       <caption webpage="51jobhifi" alt=""/>
+      <caption webpage="51job" alt=""/>
+      <caption webpage="visual-design" alt=""/>
+      <caption webpage="magi选题报告" alt=""/>
+      <caption webpage="ux-design" alt=""/>
       <caption webpage="soution-page" alt=""/>
       <caption webpage="twist-function-clarify" alt=""/>
+      <caption webpage="lxf-selected-design-works" alt=""/>
+      <caption webpage="magi概念设计" alt=""/>
       <caption webpage="twist-hifi" alt=""/>
-      <caption webpage="this-is-...-emoji" alt=""/>
-      <caption webpage="magi智灵手机助手" alt=""/>
-      <caption webpage="twist-concept---optimize" alt=""/>
-      <caption webpage="twist" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="solution-page-hifi" alt=""/>
       <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
       <caption webpage="industrial-design" alt=""/>
+      <caption webpage="twist-research-report" alt=""/>
+      <caption webpage="photograph" alt=""/>
+      <caption webpage="ibm-cloud-automation-manager" alt=""/>
+      <caption webpage="twist-concept---optimize" alt=""/>
+      <caption webpage="magi需求分析" alt=""/>
+      <caption webpage="twist-smart-pot" alt=""/>
+      <caption webpage="twist" alt=""/>
+      <caption webpage="magi智灵手机助手" alt=""/>
     </file>
     <file name="logo_poster_.png" crc="4181403656" ref="index"/>
     <file name="arrows-mn_arrow_left.png" crc="4126107877" ref="index:ux-design:ibm-cloud-automation-manager:ibm-cloud-automation-manager-hifi:51job:51jobhifi:soution-page:twist:solution-page-hifi:twist-hifi:industrial-design:twist-smart-pot:visual-design:this-is-...-emoji:photograph">
@@ -233,106 +233,106 @@
     <file name="u10232-r.png" crc="3986929026" ref="index"/>
     <file name="u10232-r_2x.png" crc="173599557" ref="index"/>
     <file name="logowhite.svg" crc="497583979" seo="true" ref="index:ux-design:ibm-cloud-automation-manager:ibm-cloud-automation-manager-hifi:51job:51jobhifi:soution-page:twist:solution-page-hifi:twist-hifi:magi智灵手机助手:industrial-design:twist-smart-pot:visual-design:this-is-...-emoji:photograph">
-      <caption webpage="photograph" alt=""/>
       <caption webpage="this-is-...-emoji" alt=""/>
-      <caption webpage="51job" alt=""/>
       <caption webpage="solution-page-hifi" alt=""/>
-      <caption webpage="twist-smart-pot" alt=""/>
-      <caption webpage="ux-design" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="ibm-cloud-automation-manager" alt=""/>
-      <caption webpage="51jobhifi" alt=""/>
-      <caption webpage="soution-page" alt=""/>
+      <caption webpage="51job" alt=""/>
       <caption webpage="visual-design" alt=""/>
-      <caption webpage="twist-hifi" alt=""/>
-      <caption webpage="magi智灵手机助手" alt=""/>
-      <caption webpage="twist" alt=""/>
-      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="ux-design" alt=""/>
+      <caption webpage="soution-page" alt=""/>
       <caption webpage="industrial-design" alt=""/>
+      <caption webpage="magi智灵手机助手" alt=""/>
+      <caption webpage="twist-hifi" alt=""/>
+      <caption webpage="twist" alt=""/>
+      <caption webpage="51jobhifi" alt=""/>
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+      <caption webpage="photograph" alt=""/>
+      <caption webpage="ibm-cloud-automation-manager" alt=""/>
+      <caption webpage="twist-smart-pot" alt=""/>
     </file>
     <file name="logowhite_poster_.png" crc="286954294" ref="index"/>
     <file name="微博.svg" crc="433994161" seo="true" ref="index:ux-design:ibm-cloud-automation-manager:ibm-cloud-automation-manager-hifi:51job:51jobhifi:soution-page:twist:solution-page-hifi:twist-hifi:magi智灵手机助手:industrial-design:twist-smart-pot:visual-design:this-is-...-emoji:photograph">
-      <caption webpage="photograph" alt=""/>
       <caption webpage="this-is-...-emoji" alt=""/>
-      <caption webpage="51job" alt=""/>
       <caption webpage="solution-page-hifi" alt=""/>
-      <caption webpage="twist-smart-pot" alt=""/>
-      <caption webpage="ux-design" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="ibm-cloud-automation-manager" alt=""/>
-      <caption webpage="51jobhifi" alt=""/>
-      <caption webpage="soution-page" alt=""/>
+      <caption webpage="51job" alt=""/>
       <caption webpage="visual-design" alt=""/>
-      <caption webpage="twist-hifi" alt=""/>
-      <caption webpage="magi智灵手机助手" alt=""/>
-      <caption webpage="twist" alt=""/>
-      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="ux-design" alt=""/>
+      <caption webpage="soution-page" alt=""/>
       <caption webpage="industrial-design" alt=""/>
+      <caption webpage="magi智灵手机助手" alt=""/>
+      <caption webpage="twist-hifi" alt=""/>
+      <caption webpage="twist" alt=""/>
+      <caption webpage="51jobhifi" alt=""/>
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+      <caption webpage="photograph" alt=""/>
+      <caption webpage="ibm-cloud-automation-manager" alt=""/>
+      <caption webpage="twist-smart-pot" alt=""/>
     </file>
     <file name="微博_poster_.png" crc="486435155" ref="index"/>
     <file name="微信.svg" crc="4094470059" seo="true" ref="index:ux-design:ibm-cloud-automation-manager:ibm-cloud-automation-manager-hifi:51job:51jobhifi:soution-page:twist:solution-page-hifi:twist-hifi:magi智灵手机助手:industrial-design:twist-smart-pot:visual-design:this-is-...-emoji:photograph">
-      <caption webpage="photograph" alt=""/>
       <caption webpage="this-is-...-emoji" alt=""/>
-      <caption webpage="51job" alt=""/>
       <caption webpage="solution-page-hifi" alt=""/>
-      <caption webpage="twist-smart-pot" alt=""/>
-      <caption webpage="ux-design" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="ibm-cloud-automation-manager" alt=""/>
-      <caption webpage="51jobhifi" alt=""/>
-      <caption webpage="soution-page" alt=""/>
+      <caption webpage="51job" alt=""/>
       <caption webpage="visual-design" alt=""/>
-      <caption webpage="twist-hifi" alt=""/>
-      <caption webpage="magi智灵手机助手" alt=""/>
-      <caption webpage="twist" alt=""/>
-      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="ux-design" alt=""/>
+      <caption webpage="soution-page" alt=""/>
       <caption webpage="industrial-design" alt=""/>
+      <caption webpage="magi智灵手机助手" alt=""/>
+      <caption webpage="twist-hifi" alt=""/>
+      <caption webpage="twist" alt=""/>
+      <caption webpage="51jobhifi" alt=""/>
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+      <caption webpage="photograph" alt=""/>
+      <caption webpage="ibm-cloud-automation-manager" alt=""/>
+      <caption webpage="twist-smart-pot" alt=""/>
     </file>
     <file name="微信_poster_.png" crc="202330178" ref="index"/>
     <file name="dribble.svg" crc="4161191557" seo="true" ref="index:ux-design:ibm-cloud-automation-manager:ibm-cloud-automation-manager-hifi:51job:51jobhifi:soution-page:twist:solution-page-hifi:twist-hifi:magi智灵手机助手:industrial-design:twist-smart-pot:visual-design:this-is-...-emoji:photograph">
-      <caption webpage="photograph" alt=""/>
       <caption webpage="this-is-...-emoji" alt=""/>
-      <caption webpage="51job" alt=""/>
       <caption webpage="solution-page-hifi" alt=""/>
-      <caption webpage="twist-smart-pot" alt=""/>
-      <caption webpage="ux-design" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="ibm-cloud-automation-manager" alt=""/>
-      <caption webpage="51jobhifi" alt=""/>
-      <caption webpage="soution-page" alt=""/>
+      <caption webpage="51job" alt=""/>
       <caption webpage="visual-design" alt=""/>
-      <caption webpage="twist-hifi" alt=""/>
-      <caption webpage="magi智灵手机助手" alt=""/>
-      <caption webpage="twist" alt=""/>
-      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="ux-design" alt=""/>
+      <caption webpage="soution-page" alt=""/>
       <caption webpage="industrial-design" alt=""/>
+      <caption webpage="magi智灵手机助手" alt=""/>
+      <caption webpage="twist-hifi" alt=""/>
+      <caption webpage="twist" alt=""/>
+      <caption webpage="51jobhifi" alt=""/>
+      <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
+      <caption webpage="photograph" alt=""/>
+      <caption webpage="ibm-cloud-automation-manager" alt=""/>
+      <caption webpage="twist-smart-pot" alt=""/>
     </file>
     <file name="dribble_poster_.png" crc="292260951" ref="index"/>
     <file name="keyi警告.svg" crc="429946476" seo="true" ref="index:ux-design:ibm-cloud-automation-manager:ibm-cloud-automation-manager-hifi:51job:51jobhifi:soution-page:twist:solution-page-hifi:twist-hifi:magi智灵手机助手:magi选题报告:magi需求分析:magi概念设计:industrial-design:twist-smart-pot:twist-research-report:twist-function-clarify:twist-concept---optimize:twist-final-solution:visual-design:this-is-...-emoji:photograph:lxf-selected-design-works">
-      <caption webpage="photograph" alt=""/>
-      <caption webpage="magi选题报告" alt=""/>
-      <caption webpage="magi概念设计" alt=""/>
+      <caption webpage="this-is-...-emoji" alt=""/>
       <caption webpage="twist-final-solution" alt=""/>
-      <caption webpage="visual-design" alt=""/>
-      <caption webpage="51job" alt=""/>
-      <caption webpage="twist-research-report" alt=""/>
-      <caption webpage="solution-page-hifi" alt=""/>
-      <caption webpage="twist-smart-pot" alt=""/>
-      <caption webpage="magi需求分析" alt=""/>
-      <caption webpage="lxf-selected-design-works" alt=""/>
-      <caption webpage="ux-design" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="ibm-cloud-automation-manager" alt=""/>
       <caption webpage="51jobhifi" alt=""/>
+      <caption webpage="51job" alt=""/>
+      <caption webpage="visual-design" alt=""/>
+      <caption webpage="magi选题报告" alt=""/>
+      <caption webpage="ux-design" alt=""/>
       <caption webpage="soution-page" alt=""/>
       <caption webpage="twist-function-clarify" alt=""/>
+      <caption webpage="lxf-selected-design-works" alt=""/>
+      <caption webpage="magi概念设计" alt=""/>
       <caption webpage="twist-hifi" alt=""/>
-      <caption webpage="this-is-...-emoji" alt=""/>
-      <caption webpage="magi智灵手机助手" alt=""/>
-      <caption webpage="twist-concept---optimize" alt=""/>
-      <caption webpage="twist" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="solution-page-hifi" alt=""/>
       <caption webpage="ibm-cloud-automation-manager-hifi" alt=""/>
       <caption webpage="industrial-design" alt=""/>
+      <caption webpage="twist-research-report" alt=""/>
+      <caption webpage="photograph" alt=""/>
+      <caption webpage="ibm-cloud-automation-manager" alt=""/>
+      <caption webpage="twist-concept---optimize" alt=""/>
+      <caption webpage="magi需求分析" alt=""/>
+      <caption webpage="twist-smart-pot" alt=""/>
+      <caption webpage="twist" alt=""/>
+      <caption webpage="magi智灵手机助手" alt=""/>
     </file>
     <file name="keyi警告_poster_.png" crc="314634940" ref="index"/>
     <file name="u6839-8.png" crc="4177455313" ref="index:ux-design:ibm-cloud-automation-manager:ibm-cloud-automation-manager-hifi:51job:51jobhifi:soution-page:twist:solution-page-hifi:twist-hifi:magi智灵手机助手:industrial-design:twist-smart-pot:visual-design:this-is-...-emoji:photograph"/>
@@ -2275,7 +2275,7 @@
       <caption webpage="photograph" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4155077564" seo="true" mt="1503996469584" redirect="true"/>
+  <file name="index.html" crc="3942763687" seo="true" mt="1503998531638" redirect="true"/>
   <file name="ux-design.html" crc="288806748" seo="true" mt="1503472965976" redirect="true"/>
   <file name="ibm-cloud-automation-manager.html" crc="3875019664" seo="true" mt="1503472891113" redirect="true"/>
   <file name="ibm-cloud-automation-manager-hifi.html" crc="3873407684" seo="true" mt="1503472891113" redirect="true"/>
