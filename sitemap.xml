@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.lxfdesign.com/index.html</loc>
-    <lastmod>2017-08-23</lastmod>
+    <lastmod>2017-08-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -235,6 +235,195 @@
     </image:image>
   </url>
   <url>
+    <loc>http://www.lxfdesign.com/photograph.html</loc>
+    <lastmod>2017-08-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/dot.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/logo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/logowhite.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/%E5%BE%AE%E5%8D%9A.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/%E5%BE%AE%E4%BF%A1.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/dribble.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/keyi%E8%AD%A6%E5%91%8A.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/logo51.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/sj-line1.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/sj-line2.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/%E7%9B%B8%E6%9C%BA.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/%E7%9B%B8%E6%9C%BA_2x.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/photo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/dscf2058.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/img_7190.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/img_7024.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/img_7031.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/img_7025.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/img_6598.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/img_5885.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/img_5652.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/img_5898.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/img_5929.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/img_6978.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/img_6060.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/img_6052.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/p%E9%B9%A6%E9%B9%89.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/img_7185.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/img_7189.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/dscf2058-crop-u43946.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/dscf2058-crop-u43946_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/img_7190-crop-u43938.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/img_7190-crop-u43938_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/img_7024-crop-u43934.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/img_7024-crop-u43934_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/img_7031-crop-u43948.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/img_7031-crop-u43948_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/img_7025-crop-u43926.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/img_7025-crop-u43926_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/img_6598-crop-u43922.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/img_6598-crop-u43922_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/img_5885-crop-u43920.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/img_5885-crop-u43920_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/img_5652-crop-u43940.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/img_5652-crop-u43940_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/img_5898-crop-u43928.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/img_5898-crop-u43928_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/img_5929-crop-u43924.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/img_5929-crop-u43924_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/img_6978-crop-u43930.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/img_6978-crop-u43930_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/img_6060-crop-u43942.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/img_6060-crop-u43942_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/img_6052-crop-u43936.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/img_6052-crop-u43936_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/p%E9%B9%A6%E9%B9%89-crop-u43932.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/p%E9%B9%A6%E9%B9%89-crop-u43932_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/img_7185-crop-u43950.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/img_7185-crop-u43950_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/img_7189-crop-u43944.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/img_7189-crop-u43944_2x.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://www.lxfdesign.com/this-is-...-emoji.html</loc>
     <lastmod>2017-08-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -322,6 +511,42 @@
     </image:image>
     <image:image>
       <image:loc>http://www.lxfdesign.com/images/%E8%BF%99%E6%98%AF%E7%B3%BB%E5%88%97%E8%A1%A8%E6%83%85-%E4%BD%A0%E6%9C%80%E7%88%B1%E7%9A%84%E4%BA%BA_2x.gif</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.lxfdesign.com/lxf-selected-design-works.html</loc>
+    <lastmod>2017-08-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/logo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/keyi%E8%AD%A6%E5%91%8A.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.lxfdesign.com/twist-final-solution.html</loc>
+    <lastmod>2017-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/logo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/keyi%E8%AD%A6%E5%91%8A.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.lxfdesign.com/twist-concept---optimize.html</loc>
+    <lastmod>2017-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/logo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/keyi%E8%AD%A6%E5%91%8A.svg</image:loc>
     </image:image>
   </url>
   <url>
@@ -529,219 +754,6 @@
     </image:image>
   </url>
   <url>
-    <loc>http://www.lxfdesign.com/photograph.html</loc>
-    <lastmod>2017-08-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/dot.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/logo.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/logowhite.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/%E5%BE%AE%E5%8D%9A.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/%E5%BE%AE%E4%BF%A1.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/dribble.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/keyi%E8%AD%A6%E5%91%8A.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/logo51.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/sj-line1.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/sj-line2.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/%E7%9B%B8%E6%9C%BA.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/%E7%9B%B8%E6%9C%BA_2x.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/photo.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/dscf2058.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/img_7190.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/img_7024.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/img_7031.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/img_7025.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/img_6598.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/img_5885.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/img_5652.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/img_5898.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/img_5929.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/img_6978.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/img_6060.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/img_6052.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/p%E9%B9%A6%E9%B9%89.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/img_7185.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/img_7189.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/dscf2058-crop-u43946.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/dscf2058-crop-u43946_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/img_7190-crop-u43938.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/img_7190-crop-u43938_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/img_7024-crop-u43934.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/img_7024-crop-u43934_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/img_7031-crop-u43948.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/img_7031-crop-u43948_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/img_7025-crop-u43926.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/img_7025-crop-u43926_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/img_6598-crop-u43922.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/img_6598-crop-u43922_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/img_5885-crop-u43920.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/img_5885-crop-u43920_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/img_5652-crop-u43940.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/img_5652-crop-u43940_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/img_5898-crop-u43928.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/img_5898-crop-u43928_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/img_5929-crop-u43924.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/img_5929-crop-u43924_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/img_6978-crop-u43930.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/img_6978-crop-u43930_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/img_6060-crop-u43942.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/img_6060-crop-u43942_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/img_6052-crop-u43936.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/img_6052-crop-u43936_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/p%E9%B9%A6%E9%B9%89-crop-u43932.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/p%E9%B9%A6%E9%B9%89-crop-u43932_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/img_7185-crop-u43950.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/img_7185-crop-u43950_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/img_7189-crop-u43944.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/img_7189-crop-u43944_2x.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://www.lxfdesign.com/twist-concept---optimize.html</loc>
-    <lastmod>2017-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/logo.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/keyi%E8%AD%A6%E5%91%8A.svg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://www.lxfdesign.com/twist-function-clarify.html</loc>
-    <lastmod>2017-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/logo.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/keyi%E8%AD%A6%E5%91%8A.svg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://www.lxfdesign.com/ux-design.html</loc>
     <lastmod>2017-08-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -774,6 +786,12 @@
       <image:loc>http://www.lxfdesign.com/images/lodding1_2x.gif</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://www.lxfdesign.com/images/steakanimfinal.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/steakanimfinal_2x.gif</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://www.lxfdesign.com/images/id-logo_gif.gif</image:loc>
     </image:image>
     <image:image>
@@ -781,12 +799,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.lxfdesign.com/images/id-name.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/steakanimfinal.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/steakanimfinal_2x.gif</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.lxfdesign.com/images/smale.gif</image:loc>
@@ -1516,8 +1528,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://www.lxfdesign.com/magi%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90.html</loc>
-    <lastmod>2017-08-06</lastmod>
+    <loc>http://www.lxfdesign.com/magi%E6%A6%82%E5%BF%B5%E8%AE%BE%E8%AE%A1.html</loc>
+    <lastmod>2017-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1528,7 +1540,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://www.lxfdesign.com/twist-final-solution.html</loc>
+    <loc>http://www.lxfdesign.com/magi%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90.html</loc>
     <lastmod>2017-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1633,6 +1645,30 @@
     </image:image>
   </url>
   <url>
+    <loc>http://www.lxfdesign.com/twist-research-report.html</loc>
+    <lastmod>2017-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/logo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/keyi%E8%AD%A6%E5%91%8A.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.lxfdesign.com/twist-function-clarify.html</loc>
+    <lastmod>2017-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/logo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/keyi%E8%AD%A6%E5%91%8A.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://www.lxfdesign.com/industrial-design.html</loc>
     <lastmod>2017-08-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -1659,9 +1695,6 @@
       <image:loc>http://www.lxfdesign.com/images/keyi%E8%AD%A6%E5%91%8A.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.lxfdesign.com/images/id-slogan.gif</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.lxfdesign.com/images/id-logo_gif.gif</image:loc>
     </image:image>
     <image:image>
@@ -1669,6 +1702,9 @@
     </image:image>
     <image:image>
       <image:loc>http://www.lxfdesign.com/images/id-name.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lxfdesign.com/images/id-slogan.gif</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.lxfdesign.com/images/id-potmini.png</image:loc>
@@ -1705,18 +1741,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.lxfdesign.com/images/logo-mini_2x.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://www.lxfdesign.com/magi%E6%A6%82%E5%BF%B5%E8%AE%BE%E8%AE%A1.html</loc>
-    <lastmod>2017-08-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/logo.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/keyi%E8%AD%A6%E5%91%8A.svg</image:loc>
     </image:image>
   </url>
   <url>
@@ -1828,20 +1852,14 @@
     </image:image>
   </url>
   <url>
-    <loc>http://www.lxfdesign.com/twist-research-report.html</loc>
-    <lastmod>2017-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/logo.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lxfdesign.com/images/keyi%E8%AD%A6%E5%91%8A.svg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://www.lxfdesign.com/assets/%E6%99%BA%E7%81%B5%E5%8A%A9%E6%89%8B%E9%80%89%E9%A2%98%E9%9C%80%E6%B1%82%E6%8A%A5%E5%91%8A.pdf</loc>
     <lastmod>2017-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.lxfdesign.com/assets/portfolio-of-xiaofan-li.pdf</loc>
+    <lastmod>2017-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
